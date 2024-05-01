@@ -1063,7 +1063,7 @@
          "image":"https://static.wikia.nocookie.net/love-live/images/a/a4/WE_WILL%21%21.jpg/revision/latest/scale-to-width-down/800"
       },
       "lovelivoikakeruyumenosakide":{
-         "url":"https://youtu.be/NBBt0pqYqZU?si=qwlxJ4QjbcHgUTQr",
+         "url":"https://youtu.be/AKBV8afIcmE?si=3vZEMKIHUMBcuzOi",
          "name":"Oikakeru Yume no Saki de",
          "artist":"Liella!",
          "source":"Love Live! Superstar!! Season 2",
@@ -1934,6 +1934,276 @@
          "tags":"Anime, Code Geass R2, Drama, Sci-fi, O2, Orange Range, Opening",
          "sourceanswers":"Code Geass R2, Code Geass: R2",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2904-Z6DhLHr1XWEH.jpg"
+      },
+      "revuestarlighthoshinodialogue":{
+         "url":"https://youtu.be/CBda5UCtFjs?si=2Mc2z7MMvhEjrb1o",
+         "name":"Hoshi no DIALOGUE",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Starlight Kuku Gumi, Anime, Opening, Music, Drama, Hoshi no DIALOGUE",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/52/Hoshi_no_DIALOGUE_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+     },
+     "revuestarlightflymetothestar":{
+         "url":"https://youtu.be/xt4dgc3gs1U?si=rDEX70sOpAbTjU-E",
+         "name":"Fly Me to the Star",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Shōjo☆Kageki Revue Starlight (Ending 1)",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Starlight Kuku Gumi, Anime, Ending, Music, Drama, Fly Me to the Star",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/1/1f/Fly_Me_to_the_Star_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightflymetothestarinstrumental":{
+         "url":"https://youtu.be/SiHByyE8hTY?si=r14gIUXMRFqin0JL",
+         "name":"Fly Me to the Star (Instrumental)",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Shōjo☆Kageki Revue Starlight (Ending 6)",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Starlight Kuku Gumi, Anime, Ending, Music, Drama, Fly Me to the Star (Instrumental)",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/1/1f/Fly_Me_to_the_Star_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightuntiltheworldisturnedtoash":{
+         "url":"https://youtu.be/x27PKu0NwCI?si=kV_YpcZLjYFKEdyz",
+         "name":"Until the World is Turned to Ash",
+         "artist":"Hoshimi Junna (CV: Hinata Sato), Kagura Hikari (CV: Suzuko Mimori), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Hoshimi Junna (CV: Hinata Sato), Kagura Hikari (CV: Suzuko Mimori), Aijo Karen (CV: Momoyo Koyama), Anime, Insert, Music, Drama, Until the World is Turned to Ash, Sekai o Hai ni Suru Made",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/2/29/Sekai_o_Hai_ni_Suru_Made_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightthestarknows":{
+         "url":"https://youtu.be/23saQ3ObNVg?si=NMMYyEwqADO9Sf1y",
+         "name":"The Star Knows",
+         "artist":"Hoshimi Junna (CV: Hinata Sato), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Hoshimi Junna (CV: Hinata Sato), Aijo Karen (CV: Momoyo Koyama), Anime, Insert, Music, Drama, The Star Knows",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/f/f4/The_Star_Knows_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightprideandarrogance":{
+         "url":"https://youtu.be/tg7qZzwqWYQ?si=-1vis9jyGfr_O3sr",
+         "name":"Pride and Arrogance",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Tendo Maya (CV: Maho Tomita)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Aijo Karen (CV: Momoyo Koyama), Tendo Maya (CV: Maho Tomita), Anime, Insert, Music, Drama, Pride and Arrogance, Hokori to Ogori",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/c/c6/Hokori_to_Ogori_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightloveswickedpitch":{
+         "url":"https://youtu.be/PgQK3Pv0_cQ?si=jJU8s4uxjaT4tm-c",
+         "name":"Love's Wicked Pitch",
+         "artist":"Tsuyuzaki Mahiru (CV: Haruki Iwata), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Tsuyuzaki Mahiru (CV: Haruki Iwata), Aijo Karen (CV: Momoyo Koyama), Anime, Insert, Music, Drama, Love's Wicked Pitch, Koi no Makyū, Koi no Makyuu",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/8/8d/Koi_no_Makyuu_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightasongorthebloomingofflowers":{
+         "url":"https://youtu.be/PLQ1X4DbRA4?si=ILy1bSp9HSLttaUh",
+         "name":"A Song or the Blooming of Flowers?",
+         "artist":"Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito), Anime, Insert, Music, Drama, A Song or the Blooming of Flowers?, Hanasaka Uta",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/d/d7/Hanasaka_Uta_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightrecreate":{
+         "url":"https://youtu.be/BOsQNekJgmM?si=dejcScBqs6X_9kxA",
+         "name":"RE:CREATE",
+         "artist":"Kagura Hikari (CV: Suzuko Mimori), Daiba Nana (CV: Moeka Koizumi)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Kagura Hikari (CV: Suzuko Mimori), Daiba Nana (CV: Moeka Koizumi), Anime, Insert, Music, Drama, RE:CREATE",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/0/09/RE_CREATE_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightthesongofstarlightgathering":{
+         "url":"https://youtu.be/BOsQNekJgmM?si=dejcScBqs6X_9kxA",
+         "name":"The Song of Starlight Gathering",
+         "artist":"Claire (Tendo Maya) (CV: Maho Tomita), Flora (Saijo Claudine) (CV: Aina Aiba)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Claire (Tendo Maya) (CV: Maho Tomita), Flora (Saijo Claudine) (CV: Aina Aiba), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba), Anime, Insert, Music, Drama, The Song of Starlight Gathering, Hoshitsumi no Uta",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/0/09/RE_CREATE_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightthebondofthestars":{
+         "url":"https://youtu.be/Plq65ZgWQgE?si=tPIWJXRtfz9yFkte",
+         "name":"The Bonds of the Stars",
+         "artist":"Daiba Nana (CV: Moeka Koizumi), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Daiba Nana (CV: Moeka Koizumi), Aijo Karen (CV: Momoyo Koyama), Anime, Insert, Music, Drama, The Bonds of the Stars, Hoshiboshi no Kizuna",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/c/c8/Hoshiboshi_no_Kizuna_ReLIVE_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightstardivinefinale":{
+         "url":"https://youtu.be/qFhDh8Rg5KU?si=Pku_9DM_itY3XS-A",
+         "name":"-Star Divine- finale",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba), Anime, Insert, Music, Drama, -Star Divine- finale, Star Divine finale",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/b4/La_Revue_de_Soirée_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlighttheknowledgeofastagegirlinterlude":{
+         "url":"https://youtu.be/kUuL6pO1ZD0?si=fOXksYuiX_IOKC9a",
+         "name":"The Knowledge of a Stage Girl interlude",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Starlight Kuku Gumi, Anime, Insert, Music, Drama, The Knowledge of a Stage Girl interlude, Butai Shōjo Kokoroe Makuai",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/b4/La_Revue_de_Soirée_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightstarlight":{
+         "url":"https://youtu.be/G5liCfupU3o?si=MtwqZVhjUw-e77r3",
+         "name":"Starlight",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Anime, Insert, Music, Drama, Starlight",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/b4/La_Revue_de_Soirée_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightuntiltheworldisturnedtoashmoviever":{
+         "url":"https://youtu.be/ZyKT_eF8Hao?si=xv8JJOC0MR5Ljq8E",
+         "name":"Until the World is Turned to Ash - Movie Ver.",
+         "artist":"Hoshimi Junna (CV: Hinata Sato), Kagura Hikari (CV: Suzuko Mimori), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Hoshimi Junna (CV: Hinata Sato), Kagura Hikari (CV: Suzuko Mimori), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, Until the World is Turned to Ash - Movie Ver., Sekai o Hai ni Suru Made - Movie Ver.",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightrondothestarknowsanother":{
+         "url":"https://youtu.be/d0xRCbAjeog?si=yfHGCfQ6J7u6-RVU",
+         "name":"The Star Knows ~Another~",
+         "artist":"Hoshimi Junna (CV: Hinata Sato), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Hoshimi Junna (CV: Hinata Sato), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, The Star Knows ~Another~",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightprideandarrogancemoviever":{
+         "url":"https://youtu.be/TuybarmaAzM?si=eQdsouyDLB4VOFQD",
+         "name":"Pride and Arrogance - Movie Ver.",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Tendo Maya (CV: Maho Tomita)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Aijo Karen (CV: Momoyo Koyama), Tendo Maya (CV: Maho Tomita), Anime, Movie, Insert, Music, Drama, Pride and Arrogance - Movie Ver., Hokori to Ogori - Movie Ver.",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightloveswickedpitch7thinning":{
+         "url":"https://youtu.be/JgkN_Zef6aE?si=gUH-GlXKozcua65i",
+         "name":"Love's Wicked Pitch -7th Inning-",
+         "artist":"Tsuyuzaki Mahiru (CV: Haruki Iwata), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Tsuyuzaki Mahiru (CV: Haruki Iwata), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, Love's Wicked Pitch -7th Inning-, Koi no Makyū -Nana-kai Ura-, Koi no Makyuu -Nana-kai Ura-",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlighteveningasongorthebloomingofflowers":{
+         "url":"https://youtu.be/5k_TzKa5uxs?si=f-VPzPP4WO1l17tw",
+         "name":"Evening A Song or the Blooming of Flowers?",
+         "artist":"Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito), Anime, Movie, Insert, Music, Drama, Evening A Song or the Blooming of Flowers?, Yoi Hanasaka Uta",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightrecreatemoviever":{
+         "url":"https://youtu.be/Exc9VSKtS8g?si=FqZy3MfrKhybGHt5",
+         "name":"RE:CREATE - Movie Ver.",
+         "artist":"Kagura Hikari (CV: Suzuko Mimori), Daiba Nana (CV: Moeka Koizumi)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Kagura Hikari (CV: Suzuko Mimori), Daiba Nana (CV: Moeka Koizumi), Anime, Movie, Insert, Music, Drama, RE:CREATE - Movie Ver.",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightthebondofthestarsmoviever":{
+         "url":"https://youtu.be/eoRNlsMdAVM?si=dgONkFGsG3zgDEfu",
+         "name":"The Bonds of the Stars - Movie Ver.",
+         "artist":"Daiba Nana (CV: Moeka Koizumi), Aijo Karen (CV: Momoyo Koyama)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Daiba Nana (CV: Moeka Koizumi), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, The Bonds of the Stars - Movie Ver., Hoshiboshi no Kizuna - Movie Ver.",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightstardiamondmoviever":{
+         "url":"https://youtu.be/wPjk-_LDfK0?si=f9_niR4vfo7n-yGy",
+         "name":"Star Diamond - Movie Ver.",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba), Anime, Movie, Insert, Music, Drama, Star Diamond - Movie Ver.",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightstarlightmoviever":{
+         "url":"https://youtu.be/b7AR9yrYrvo?si=0J9daQT2CZCC04xB",
+         "name":"Starlight - Movie Ver.",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori)",
+         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight:Rondo Rondo Rondo, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Anime, Movie, Insert, Music, Drama, Starlight - Movie Ver.",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/bf/Shōjo☆Kageki_Revue_Starlight_Rondo_Rondo_Rondo_Poster.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmoviewildscreenbaroque":{
+         "url":"https://youtu.be/ijZ0WrCPUbg?si=-2v0gvPl5OxpfXce",
+         "name":"wi(l)d-screen baroque",
+         "artist":"Daiba Nana (CV: Moeka Koizumi)",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Daiba Nana (CV: Moeka Koizumi), Anime, Movie, Insert, Music, Drama, wi(l)d-screen baroque",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/a/a7/Movie_Insert_Songs_Vol._2.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmoviewagamamahighway":{
+         "url":"https://youtu.be/HHP0n64giCQ?si=mx18OcZG4zQ6zrXT",
+         "name":"Wagamama Highway",
+         "artist":"Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito)",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito), Anime, Movie, Insert, Music, Drama, Wagamama Highway",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/57/Movie_Insert_Songs_Vol._1.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmoviemedalsuzdalpanic":{
+         "url":"https://youtu.be/pfyixcZLFu4?si=VYoUrvl8fbhXH5ey",
+         "name":"MEDAL SUZDAL PANIC◎○●",
+         "artist":"Kagura Hikari (CV: Suzuko Mimori), Tsuyuzaki Mahiru (CV: Haruki Iwata)",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Kagura Hikari (CV: Suzuko Mimori), Tsuyuzaki Mahiru (CV: Haruki Iwata), Anime, Movie, Insert, Music, Drama, MEDAL SUZDAL PANIC◎○●, MEDAL SUZDAL PANIC",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/57/Movie_Insert_Songs_Vol._1.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmoviepenchikarakatana":{
+         "url":"https://youtu.be/Kogj1IgG-9M?si=j-18bdJLoqswIxHZ",
+         "name":"Pen:Chikara:Katana",
+         "artist":"Hoshimi Junna (CV: Hinata Sato), Daiba Nana (CV: Moeka Koizumi)",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Hoshimi Junna (CV: Hinata Sato), Daiba Nana (CV: Moeka Koizumi), Anime, Movie, Insert, Music, Drama, Pen:Chikara:Katana, Pen Chikara Katana",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/a/a7/Movie_Insert_Songs_Vol._2.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmovieutsukushikihitoaruiwasorewa":{
+         "url":"https://youtu.be/bpejmJA9pJg?si=BdkxfYXKT1nLJCcN",
+         "name":"Utsukushiki Hito Arui wa Sore wa",
+         "artist":"Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba)",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba), Anime, Movie, Insert, Music, Drama, Utsukushiki Hito Arui wa Sore wa",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/57/Movie_Insert_Songs_Vol._1.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmovieusuperstarspectacle":{
+         "url":"https://youtu.be/dZvAinkwj2U?si=zF4WRb7fpdVWLlKI",
+         "name":"Super Star Spectacle",
+         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori)",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Anime, Movie, Insert, Music, Drama, Super Star Spectacle",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/a/a7/Movie_Insert_Songs_Vol._2.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightmoviewatashitachiwamoubutainoue":{
+         "url":"https://youtu.be/CBaWQxBuxe0?si=zOELJayPvho6bPsP",
+         "name":"Watashitachi wa Mō Butai no Ue",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Revue Starlight: The Movie",
+         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Starlight Kuku Gumi, Anime, Movie, Ending, Music, Drama, Watashitachi wa Mō Butai no Ue, Watashitachi wa Mou Butai no Ue",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/1/10/Watashitachi_wa_Mō_Butai_no_Ue.jpg/revision/latest/scale-to-width-down/500"
       }
    }
 }
