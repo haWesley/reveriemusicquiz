@@ -69,7 +69,7 @@
          "artist":"Yoko Shimomura",
          "source":"Kingdom Hearts 3: Remind",
          "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, RPG, KH3, Video Game, Re:Mind, Nachtflugel",
-         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
+         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Yoko Shimomura, Kingdom Hearts 3: Re:Mind",
          "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
       },
       "hsrwildfire":{
@@ -1139,7 +1139,7 @@
          "name":"Vector to the Heavens -Xion-",
          "artist":"Yoko Shimomura",
          "source":"Kingdom Hearts 3: Remind",
-         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, KH3, Video Game, Re:Mind, Vector to the Heavens",
+         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, KH3, Video Game, Re:Mind, Yoko Shimomura, Vector to the Heavens",
          "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
          "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
       },
@@ -1187,6 +1187,42 @@
          "tags":"Video Game, Final Fantasy, Final Fantasy 7, Final Fantasy VII, Final Fantasy VII Remake, Final Fantasy 7 Remake, Square Enix, RPG, Playstation 4, Air Buster, Nobuo Uematsu, Tadayoshi Makino",
          "sourceanswers":"Final Fantasy 7 Remake, Final Fantasy VII Remake",
          "image":"https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.png"
+      },
+      "ff7rthetownthatneversleeps":{
+         "url":"https://youtu.be/1I4vf2cKpFo?si=Y-RqcVtK_uVxA-ue",
+         "name":"The Town That Never Sleeps",
+         "artist":"Mitsuto Suzuki",
+         "source":"Final Fantasy VII Remake",
+         "tags":"Video Game, Final Fantasy, Final Fantasy 7, Final Fantasy VII, Final Fantasy VII Remake, Final Fantasy 7 Remake, Square Enix, RPG, Playstation 4, The Town That Never Sleeps, Mitsuto Suzuki",
+         "sourceanswers":"Final Fantasy 7 Remake, Final Fantasy VII Remake",
+         "image":"https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.png"
+      },
+      "ff7raerithstheme":{
+         "url":"https://youtu.be/U12eoGz4q38?si=HlIj84C6jVS0QVBu",
+         "name":"Aerith's Theme",
+         "artist":"Nobuo Uematsu, Yoshinori Nakamura",
+         "source":"Final Fantasy VII Remake",
+         "tags":"Video Game, Final Fantasy, Final Fantasy 7, Final Fantasy VII, Final Fantasy VII Remake, Final Fantasy 7 Remake, Square Enix, RPG, Playstation 4, Aerith's Theme, Nobuo Uematsu, Yoshinori Nakamura",
+         "sourceanswers":"Final Fantasy 7 Remake, Final Fantasy VII Remake",
+         "image":"https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.png"
+      },
+      "ff7rjenovaquickening":{
+         "url":"https://youtu.be/2zvHLGPpkO0?si=gjwgoO6ZBz21NuSx",
+         "name":"J-E-N-O-V-A -Quickening-",
+         "artist":"Nobuo Uematsu, Tadayoshi Makino",
+         "source":"Final Fantasy VII Remake",
+         "tags":"Video Game, Final Fantasy, Final Fantasy 7, Final Fantasy VII, Final Fantasy VII Remake, Final Fantasy 7 Remake, Square Enix, RPG, Playstation 4, J-E-N-O-V-A -Quickening-, Nobuo Uematsu, Tadayoshi Makino",
+         "sourceanswers":"Final Fantasy 7 Remake, Final Fantasy VII Remake",
+         "image":"https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.png"
+      },
+      "ff7listentothecriesoftheplanet":{
+         "url":"https://youtu.be/Kip26t-9ESo?si=VHwnKctTh5duic7Y",
+         "name":"Listen to the Cries of the Planet",
+         "artist":"Nobuo Uematsu",
+         "source":"Final Fantasy VII",
+         "tags":"Video Game, Final Fantasy, Final Fantasy 7, Final Fantasy VII, Square Enix, Square Soft, RPG, Playstation 1, Listen to the Cries of the Planet, Nobuo Uematsu",
+         "sourceanswers":"Final Fantasy 7, Final Fantasy VII",
+         "image":"https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg"
       },
       "mobpsycho10099":{
          "url":"https://youtu.be/aFPGhSkx7eA?si=yTq-yf48rIl2ReQY",
@@ -1306,7 +1342,7 @@
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg"
       },
       "blackclovergrandeur":{
-         "url":"https://youtu.be/aaZq6SXXNt4?si=42Kt_fJ50bLsQKaQ",
+         "url":"https://youtu.be/7RyewjSWnFo?si=aWDrfT3oad6Nuzbw",
          "name":"Grandeur",
          "artist":"Snow Man",
          "source":"Black Clover (Opening 13)",
@@ -1530,12 +1566,21 @@
          "sourceanswers":"NEO: TWEWY, Neo: The World Ends with You, Neo TWEWY, Neo The World Ends with You",
          "image":"https://upload.wikimedia.org/wikipedia/en/3/38/Neotheworld.jpg"
       },
+      "kh2sanctuary":{
+         "url":"https://youtu.be/S6xlBknrXHY?si=_UDB0d6jrHJvj40Q",
+         "name":"Sanctuary",
+         "artist":"Hikaru Utada",
+         "source":"Kingdom Hearts 2: Final Mix",
+         "tags":"Playstation 2, Playstation 3, Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 2, Kingdom Hearts 2 Final Mix, RPG, KH2, Video Game, Hikaru Utada, Sanctuary",
+         "sourceanswers":"Kingdom Hearts 2, Kingdom Hearts 2 Final Mix, Kingdom Hearts 2: Final Mix",
+         "image":"https://static.wikia.nocookie.net/kingdomhearts/images/a/ac/Promotional_Artwork_KHIIFM.png/revision/latest/scale-to-width-down/250?cb=20140611220142"
+      },
       "kh2theotherpromise":{
          "url":"https://youtu.be/vU78E7S0fgs?si=cNhrlU1i_8y1AWrt",
          "name":"The Other Promise",
          "artist":"Yoko Shimomura",
          "source":"Kingdom Hearts 2: Final Mix",
-         "tags":"Playstation 2, Playstation 3, Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 2, Kingdom Hearts 2 Final Mix, RPG, KH2, Video Game, The Other Promise",
+         "tags":"Playstation 2, Playstation 3, Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 2, Kingdom Hearts 2 Final Mix, RPG, Yoko Shimomura, KH2, Video Game, The Other Promise",
          "sourceanswers":"Kingdom Hearts 2, Kingdom Hearts 2 Final Mix, Kingdom Hearts 2: Final Mix",
          "image":"https://static.wikia.nocookie.net/kingdomhearts/images/a/ac/Promotional_Artwork_KHIIFM.png/revision/latest/scale-to-width-down/250?cb=20140611220142"
       },
@@ -2312,6 +2357,87 @@
          "tags":"Anime, Ending, Dororo, Mappa, Action, Adventure, Drama, Supernatural, Eve, Yamiyo, Smile",
          "sourceanswers":"Dororo",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101347-2J2p8qJpxpfZ.jpg"
+      },
+      "tekken8mylaststand":{
+         "url":"https://youtu.be/9f1M7Wy_bOE?si=Pjtl6vshOzEP01i4",
+         "name":"My Last Stand",
+         "artist":"Robbie Wyckoff, Pat Seymour, mifumei",
+         "source":"Tekken 8",
+         "tags":"Video Game, Bandai Namco, Tekken, Playstation 5, Tekken 8, Fighter, My Last Stand, Robbie Wyckoff, Pat Seymour, mifumei",
+         "sourceanswers":"Tekken 8",
+         "image":"https://image.api.playstation.com/vulcan/ap/rnd/202308/0312/aff71a0ced271048f5079b1fcf715bcb45110efc13e9704a.png"
+      },
+      "bleachfadetoblackb13a":{
+         "url":"https://youtu.be/YKLijZfJVzs?si=4yOEdv8wm2IsT-7N",
+         "name":"Fade to Black_B13a",
+         "artist":"Shirō Sagisu",
+         "source":"Bleach",
+         "tags":"Bleach, Shiro Sagisu, Anime, Soundtrack, Shonen, Action, Adventure, Fade to Black_B13a",
+         "sourceanswers":"Bleach",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png"
+      },
+      "bleachsoundscapetoardor":{
+         "url":"https://youtu.be/Q2aM5btBLVU?si=dLlfad-UYzWrXpZ_",
+         "name":"Soundscape to Ardor",
+         "artist":"Shirō Sagisu",
+         "source":"Bleach",
+         "tags":"Bleach, Shiro Sagisu, Anime, Soundtrack, Shonen, Action, Adventure, Soundscape to Ardor",
+         "sourceanswers":"Bleach",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx269-wc062RMqud8B.png"
+      },
+      "hunterxhunterkijutsushinobaire":{
+         "url":"https://youtu.be/t531aTHGPT0?si=lEbMgXZAR4qUEbIe",
+         "name":"Kijutsushi no Baire",
+         "artist":"Yoshihisa Hirano",
+         "source":"Hunter x Hunter",
+         "tags":"Anime, Soundtrack, Hunter x Hunter, MADHOUSE, Action, Adventure, Fantasy, Yoshihisa Hirano, Kijutsushi no Baire",
+         "sourceanswers":"Hunter x Hunter, HunterxHunter",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png"
+      },
+      "kh313thdilemma":{
+         "url":"https://youtu.be/sfHab0DUrYA?si=sNHFk34oKf-ltuC3",
+         "name":"The 13th Dilemma (-Xigbar-)",
+         "artist":"Yoko Shimomura",
+         "source":"Kingdom Hearts 3: Remind",
+         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, RPG, KH3, Video Game, Re:Mind, Yoko Shimomura, The 13th Dilemma (-Xigbar-)",
+         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
+         "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
+      },
+      "kh3limpetooscuro":{
+         "url":"https://youtu.be/pTh427TgLQU?si=oahq8P0KJolCl4Sp",
+         "name":"L'Impeto Oscuro (-Young Xehanort-)",
+         "artist":"Yoko Shimomura",
+         "source":"Kingdom Hearts 3: Remind",
+         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, RPG, KH3, Video Game, Re:Mind, Yoko Shimomura, L'Impeto Oscuro (-Young Xehanort-)",
+         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
+         "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
+      },
+      "kh3scalaadcaelum":{
+         "url":"https://youtu.be/IwCnCt1cuMs?si=UvLp8ck4VmwJWPrU",
+         "name":"Scala Ad Caelum",
+         "artist":"Yoko Shimomura",
+         "source":"Kingdom Hearts 3: Remind",
+         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, RPG, KH3, Video Game, Re:Mind, Yoko Shimomura, L'Impeto Oscuro (-Young Xehanort-)",
+         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
+         "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
+      },
+      "kh3scalaadcaelum":{
+         "url":"https://youtu.be/2Tu2E_fuABE?si=S9qmRxj0yym7EWGF",
+         "name":"Forza Finale",
+         "artist":"Yoko Shimomura",
+         "source":"Kingdom Hearts 3: Remind",
+         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, RPG, KH3, Video Game, Re:Mind, Yoko Shimomura, L'Impeto Oscuro (-Young Xehanort-)",
+         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
+         "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
+      },
+      "kh3scalaadcaelum":{
+         "url":"https://youtu.be/Kvnwnf9UftA?si=iTsFWJXz0dy2jdlS",
+         "name":"Face My Fears",
+         "artist":"Hikaru Utada, Skrillex",
+         "source":"Kingdom Hearts 3: Remind",
+         "tags":"Playstation 4, Square Enix, KH, Kingdom Hearts, Kingdom Hearts 3, RPG, KH3, Video Game, Re:Mind, Skrillex, Hikaru Utada, Face My Fears, Opening",
+         "sourceanswers":"Kingdom Hearts 3, Kingdom Hearts 3: ReMind, Kingdom Hearts 3 Remind, Kingdom Hearts 3 Re:Mind, Kingdom Hearts 3: Re:Mind",
+         "image":"https://upload.wikimedia.org/wikipedia/en/5/5c/Kingdom_Hearts_III_box_art.jpg"
       }
    }
 }
