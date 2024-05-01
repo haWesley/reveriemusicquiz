@@ -2222,6 +2222,51 @@
          "tags":"Anime, Opening, One Punch Man, Action, Comedy, The Hero, Jam Project",
          "sourceanswers":"One Punch Man",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21087-2OkAdgfnQown.jpg"
+      },
+      "sailormoonmoonlightdensetsu":{
+         "url":"https://youtu.be/3bBpiHJm3t0?si=pEW4SgkMqUx8s3XY",
+         "name":"Moonlight Densetsu",
+         "artist":"Sailor Moon & The Scouts",
+         "source":"Sailor Moon",
+         "tags":"Anime, Soundtrack, Sailor Moon, Action, Adventure, Mahou Shoujo, Sailor Moon & The Scouts, Moonlight Densetsu",
+         "sourceanswers":"Sailor Moon",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx530-DsF6LirJUEii.jpg"
+      },
+      "klonoathewindmillsong":{
+         "url":"https://youtu.be/ooia5MjRlPg?si=n15_tUROkv8nVNky",
+         "name":"The Windmill Song",
+         "artist":"Junko Ozawa, Klonoa Series Sound Team",
+         "source":"Klonoa",
+         "tags":"Video Game, Klonoa, Junko Ozawa, Klonoa Series Sound Team, The Windmill Song, Bandai Namco, Playstation",
+         "sourceanswers":"Klonoa, Klonoa: Door to Phantomile, Klonoa Door to Phantomile",
+         "image":"https://upload.wikimedia.org/wikipedia/en/2/25/Klonoa_playstation_front.jpg"
+      },
+      "hellsingaworldwithoutlogos":{
+         "url":"https://youtu.be/ZDbAH3MFDac?si=LiPNQtcIN5JAHFXK",
+         "name":"A World Without Logos",
+         "artist":"Yasushi Ishii",
+         "source":"Hellsing (Opening 1)",
+         "tags":"Anime, Opening, Hellsing, Action, Horror, Supernatural, A World Without Logos, Yasushi Ishii",
+         "sourceanswers":"Hellsing",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-2N6ql2fxpgEF.jpg"
+      },
+      "hunterxhunterdeparture":{
+         "url":"https://youtu.be/3SqhXiimlrg?si=JaFFaTdP6ioJikLt",
+         "name":"departure!",
+         "artist":"Masatoshi Ono",
+         "source":"Hunter x Hunter (Opening 1)",
+         "tags":"Anime, Opening, Hunter x Hunter, MADHOUSE, Action, Adventure, Fantasy, Masatoshi Ono, departure!",
+         "sourceanswers":"Hunter x Hunter, HunterxHunter",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-NpIIobuQNbJW.png"
+      },
+      "saocrossingfield":{
+         "url":"https://youtu.be/TAYB_aoH9zs?si=G6bv4fqW-yH35cKC",
+         "name":"Crossing Field",
+         "artist":"LiSA",
+         "source":"Sword Art Online (Opening 1)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, LiSA, Crossing Field",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg"
       }
    }
 }
