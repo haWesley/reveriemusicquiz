@@ -1161,15 +1161,6 @@
          "sourceanswers":"Final Fantasy 16, Final Fantasy XVI",
          "image":"https://live.staticflickr.com/65535/50542067131_762c2f45e2_o.png"
       },
-      "saoconfrontbattle":{
-         "url":"https://youtu.be/cIeOWMk2TbU?si=Y34s4e8h60c15Arv",
-         "name":"Confront Battle",
-         "artist":"Yuki Kajiura",
-         "source":"Sword Art Online",
-         "tags":"Anime, Sword Art Online, SAO, Yuki Kajiura, Confront Battle, Soundtrack",
-         "sourceanswers":"Sword Art Online",
-         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
-      },
       "klonoatheclosingencounter":{
          "url":"https://youtu.be/Gk4Rc6iXeIY?si=hH5j7FLiMZvKg46S",
          "name":"The Closing Encounter II",
@@ -2312,6 +2303,330 @@
          "tags":"Anime, Opening, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, LiSA, Crossing Field",
          "sourceanswers":"Sword Art Online",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg"
+      },
+      "saoyumesekai":{
+         "url":"https://youtu.be/U7ETmpacZOE?si=LajitPymWPPOvu6U",
+         "name":"Yumesekai",
+         "artist":"Haruka Tomatsu",
+         "source":"Sword Art Online (Ending 1)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Haruka Tomatsu, Yumesekai",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg"
+      },
+      "saocourage":{
+         "url":"https://youtu.be/AuwxFEXhALU?si=gx0sA6S3DnE6zqi6",
+         "name":"Courage",
+         "artist":"Haruka Tomatsu",
+         "source":"Sword Art Online (Opening 2)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Haruka Tomatsu, Courage",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg"
+      },
+      "saooverfly":{
+         "url":"https://youtu.be/CpDyF4pkbAs?si=H_7Zpk-6MyoZXmIK",
+         "name":"Overfly",
+         "artist":"Luna Haruna",
+         "source":"Sword Art Online (Ending 2)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Luna Haruna, Overfly",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx11757-Q9P2zjCPICq5.jpg"
+      },
+      "saoconfrontbattle":{
+         "url":"https://youtu.be/cIeOWMk2TbU?si=Y34s4e8h60c15Arv",
+         "name":"Confront Battle",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Confront Battle, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoswordland":{
+         "url":"https://youtu.be/jUuknk81n2w?si=FK8nZ-De42wLJ0hl",
+         "name":"Swordland",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Swordland, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saothefirsttown":{
+         "url":"https://youtu.be/9r785y3f1Nk?si=MmhVfWOfwSLtIVOW",
+         "name":"The First Town",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, The First Town, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoatenderfeeling":{
+         "url":"https://youtu.be/bfaBr7EuZCE?si=Afm5q0bFVesdWEUc",
+         "name":"A Tender Feeling",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, A Tender Feeling, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoluminoussword":{
+         "url":"https://youtu.be/9bLpyGlQGtg?si=8OYUaqybCc-XFljT",
+         "name":"Luminous Sword",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Luminous Sword, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saowehavetodefeatit":{
+         "url":"https://youtu.be/gtSGY6SJxLk?si=OWS0zygy_FYBxiRs",
+         "name":"We Have to Defeat It",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, We Have to Defeat It, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saocriticalphase":{
+         "url":"https://youtu.be/m6b8z8m3OXc?si=7iLjoEumrOPuaIfc",
+         "name":"Critical Phase",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Critical Phase, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoaerialfight":{
+         "url":"https://youtu.be/ZcQnCxgoRwE?si=sbodaIr0YGNPSyIr",
+         "name":"Aerial Fight",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Aerial Fight, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoaincrad":{
+         "url":"https://youtu.be/mJj0ddB1XxM?si=c7qskuV6CZ0wVIvO",
+         "name":"Aincrad",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Aincrad, Soundtrack",
+         "sourceanswers":"Sword Art Online",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "sao2ignite":{
+         "url":"https://youtu.be/hoxUfOTE5II?si=g-X4NubVXS_lbygJ",
+         "name":"Ignite",
+         "artist":"Eir Aoi",
+         "source":"Sword Art Online Season 2 (Opening 1)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Eir Aoi, Ignite",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg"
+      },
+      "sao2startear":{
+         "url":"https://youtu.be/rOPEd7mXt68?si=5pRrlDUMQ6-4jkX9",
+         "name":"Startear",
+         "artist":"Luna Haruna",
+         "source":"Sword Art Online Season 2 (Ending 1)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Luna Haruna, Startear",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg"
+      },
+      "sao2courage":{
+         "url":"https://youtu.be/AuwxFEXhALU?si=6rZbwevESP2Z689o",
+         "name":"Courage",
+         "artist":"Haruka Tomatsu",
+         "source":"Sword Art Online Season 2 (Opening 2)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Haruka Tomatsu, Courage",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg"
+      },
+      "sao2nomoretimemachine":{
+         "url":"https://youtu.be/yxoD7d0Htq8?si=D66DooG12U3KqLxU",
+         "name":"No More Time Machine",
+         "artist":"LiSA",
+         "source":"Sword Art Online Season 2 (Ending 2)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, LiSA, No More Time Machine",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg"
+      },
+      "sao2shirushi":{
+         "url":"https://youtu.be/y6FCQWlKeJQ?si=0QE5gpFa8yyNU1t-",
+         "name":"Shirushi",
+         "artist":"LiSA",
+         "source":"Sword Art Online Season 2 (Ending 3)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, LiSA, Shirushi",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20594-FhRgZ1H9Istt.jpg"
+      },
+      "saoswordbreakingland":{
+         "url":"https://youtu.be/vHMDJrX9e1Q?si=QhGM5se3GLBPiNzy",
+         "name":"Swordbreaking Land",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online Season 2",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Swordbreaking Land, Soundtrack",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saogunland":{
+         "url":"https://youtu.be/BlmHHjBbvZ4?si=KKrkgIIupm0PwY6h",
+         "name":"Gunland",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online Season 2",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Gunland, Soundtrack",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoquicklyandwithoutfail":{
+         "url":"https://youtu.be/OfWDIjYAC2Y?si=1Ptua44oi4L5OJ4L",
+         "name":"Quickly and Without Fail",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online Season 2",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Quickly and Without Fail, Soundtrack",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saolightyoursword":{
+         "url":"https://youtu.be/cWTQjYnloa8?si=HUXoGw7txn4I46Lz",
+         "name":"Light Your Sword",
+         "artist":"Yuki Kajiura",
+         "source":"Sword Art Online Season 2",
+         "tags":"Anime, Sword Art Online, SAO, Sword Art Online, Sword Art Online Season 2, A-1, Action, Adventure, Fantasy, Isekai, Yuki Kajiura, Light Your Sword, Soundtrack",
+         "sourceanswers":"Sword Art Online, Sword Art Online II, Sword Art Online 2, Sword Art Online Season 2",
+         "image":"https://m.media-amazon.com/images/I/71soKKtSSKL._UF1000,1000_QL80_.jpg"
+      },
+      "saoextraeditionnijinooto":{
+         "url":"https://youtu.be/ANabFEKAKAU?si=BfUDEqwxIv3RrcKH",
+         "name":"Niji no Oto",
+         "artist":"Eir Aoi",
+         "source":"Sword Art Online Extra Edition",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Extra Edition, A-1, Action, Adventure, Fantasy, Isekai, Eir Aoi, Quickly and Without Fail, Ending",
+         "sourceanswers":"Sword Art Online, Sword Art Online Extra Edition",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20021-BZA5XTwahXPj.png"
+      },
+      "saoordinalscalecatchthemoment":{
+         "url":"https://youtu.be/GWysc_zFTIA?si=w8Cvj-L7RmTEm-13",
+         "name":"Catch the Moment",
+         "artist":"LiSA",
+         "source":"Sword Art Online Ordinal Scale",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Ordinal Scale, A-1, Action, Adventure, Fantasy, Isekai, LiSA, Catch the Moment, Ending",
+         "sourceanswers":"Sword Art Online Ordinal Scale",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21403-k8DZhZ3x1BCO.png"
+      },
+      "saoordinalscaleubiquitousdb":{
+         "url":"https://youtu.be/ozx4R6usDbw?si=LRltUv5sFNnl6XtY",
+         "name":"Ubiquitous dB",
+         "artist":"Sayaka Kanda",
+         "source":"Sword Art Online Ordinal Scale",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Ordinal Scale, A-1, Action, Adventure, Fantasy, Isekai, Sayaka Kanda, Ubiquitous dB, Soundtrack, Insert",
+         "sourceanswers":"Sword Art Online Ordinal Scale",
+         "image":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/24/b5/af24b5e5-2d81-523c-dafc-b0be6cfc4750/jacket_ANTC70255B00Z_550.jpg/1200x1200bb.jpg"
+      },
+      "saoordinalscalelonging":{
+         "url":"https://youtu.be/Eppci-N4UOs?si=5yHqoHyHE0i_w8HQ",
+         "name":"Longing",
+         "artist":"Sayaka Kanda",
+         "source":"Sword Art Online Ordinal Scale",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Ordinal Scale, A-1, Action, Adventure, Fantasy, Isekai, Sayaka Kanda, Longing, Soundtrack, Insert",
+         "sourceanswers":"Sword Art Online Ordinal Scale",
+         "image":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/24/b5/af24b5e5-2d81-523c-dafc-b0be6cfc4750/jacket_ANTC70255B00Z_550.jpg/1200x1200bb.jpg"
+      },
+      "saoordinalscaledelete":{
+         "url":"https://youtu.be/rwjBtNlTKa8?si=xRjFEc21MYmE8EtW",
+         "name":"Delete",
+         "artist":"Sayaka Kanda",
+         "source":"Sword Art Online Ordinal Scale",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Ordinal Scale, A-1, Action, Adventure, Fantasy, Isekai, Sayaka Kanda, Delete, Soundtrack, Insert",
+         "sourceanswers":"Sword Art Online Ordinal Scale",
+         "image":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/24/b5/af24b5e5-2d81-523c-dafc-b0be6cfc4750/jacket_ANTC70255B00Z_550.jpg/1200x1200bb.jpg"
+      },
+      "saoordinalscalebreakbeatbark":{
+         "url":"https://youtu.be/LuVIdzfWF0o?si=Df5RcxZJqd4x7FSQ",
+         "name":"Break Beat Bark!",
+         "artist":"Sayaka Kanda",
+         "source":"Sword Art Online Ordinal Scale",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Ordinal Scale, A-1, Action, Adventure, Fantasy, Isekai, Sayaka Kanda, Break Beat Bark!, Soundtrack, Insert",
+         "sourceanswers":"Sword Art Online Ordinal Scale",
+         "image":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/24/b5/af24b5e5-2d81-523c-dafc-b0be6cfc4750/jacket_ANTC70255B00Z_550.jpg/1200x1200bb.jpg"
+      },
+      "saoordinalscalesmileforyou":{
+         "url":"https://youtu.be/wFjPOOYTFnI?si=yzI40GaYPluWFAAf",
+         "name":"Smile for You",
+         "artist":"Sayaka Kanda",
+         "source":"Sword Art Online Ordinal Scale",
+         "tags":"Anime, Movie, Sword Art Online, SAO, Sword Art Online, Sword Art Online Ordinal Scale, A-1, Action, Adventure, Fantasy, Isekai, Sayaka Kanda, Smile for You, Soundtrack, Insert",
+         "sourceanswers":"Sword Art Online Ordinal Scale",
+         "image":"https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/af/24/b5/af24b5e5-2d81-523c-dafc-b0be6cfc4750/jacket_ANTC70255B00Z_550.jpg/1200x1200bb.jpg"
+      },
+      "saoalicizationadamas":{
+         "url":"https://youtu.be/XB2KAZNOTqQ?si=mEo03BUgsUlkadoz",
+         "name":"ADAMAS",
+         "artist":"LiSA",
+         "source":"Sword Art Online: Alicization (Opening 1)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, LiSA, Adamas",
+         "sourceanswers":"Sword Art Online Alicization, Sword Art Online: Alicization",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg"
+      },
+      "saoalicizationiris":{
+         "url":"https://youtu.be/Pn4zz6ZdEU0?si=UjLNFO865xTya2hK",
+         "name":"Iris",
+         "artist":"Eir Aoi",
+         "source":"Sword Art Online: Alicization (Ending 1)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, Eir Aoi, Iris",
+         "sourceanswers":"Sword Art Online Alicization, Sword Art Online: Alicization",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg"
+      },
+      "saoalicizationresister":{
+         "url":"https://youtu.be/RPZwWt6_unE?si=gKOdHnRMpevJRbCQ",
+         "name":"Resister",
+         "artist":"ASCA",
+         "source":"Sword Art Online: Alicization (Opening 2)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, ASCA, Resister",
+         "sourceanswers":"Sword Art Online Alicization, Sword Art Online: Alicization",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg"
+      },
+      "saoalicizationresister":{
+         "url":"https://youtu.be/0HMoPzj1BeM?si=HiTJ_yz_rK7-DYBB",
+         "name":"forget-me-not",
+         "artist":"ReoNa",
+         "source":"Sword Art Online: Alicization (Ending 2)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, ReoNa, forget-me-not",
+         "sourceanswers":"Sword Art Online Alicization, Sword Art Online: Alicization",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100182-KctPmCJ2smHQ.jpg"
+      },
+      "saoalicizationwarresolution":{
+         "url":"https://youtu.be/6sI4FQZfe0E?si=uZRcd6a7fpCboq_C",
+         "name":"Resolution",
+         "artist":"Haruka Tomatsu",
+         "source":"Sword Art Online: Alicization - War of Underworld (Opening 1)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, Haruka Tomatsu, Resolution",
+         "sourceanswers":"Sword Art Online Alicization War of Underworld, Sword Art Online: Alicization - War of Underworld, Sword Art Online: Alicization War of Underworld, Sword Art Online Alicization - War of Underworld",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg"
+      },
+      "saoalicizationwarunlasting":{
+         "url":"https://youtu.be/4vvvL8y9VHM?si=inDRACkXIvUywhp3",
+         "name":"unlasting",
+         "artist":"LiSA",
+         "source":"Sword Art Online: Alicization - War of Underworld (Ending 1)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, LiSA, unlasting",
+         "sourceanswers":"Sword Art Online Alicization War of Underworld, Sword Art Online: Alicization - War of Underworld, Sword Art Online: Alicization War of Underworld, Sword Art Online Alicization - War of Underworld",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg"
+      },
+      "saoalicizationwaranima":{
+         "url":"https://youtu.be/WMe8nqeXpQg?si=S9SQZ_rVxTLW_kc6",
+         "name":"ANIMA",
+         "artist":"ReoNa",
+         "source":"Sword Art Online: Alicization - War of Underworld (Opening 2)",
+         "tags":"Anime, Opening, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, ReoNa, ANIMA",
+         "sourceanswers":"Sword Art Online Alicization War of Underworld, Sword Art Online: Alicization - War of Underworld, Sword Art Online: Alicization War of Underworld, Sword Art Online Alicization - War of Underworld",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg"
+      },
+      "saoalicizationwariwill":{
+         "url":"https://youtu.be/66ExbVl6LV0?si=DYyMSDB1X1drG4-D",
+         "name":"I will...",
+         "artist":"Eir Aoi",
+         "source":"Sword Art Online: Alicization - War of Underworld (Ending 2)",
+         "tags":"Anime, Ending, SAO, Sword Art Online, Sword Art Online Alicization, A-1, Action, Adventure, Fantasy, Isekai, Eir Aoi, I will...",
+         "sourceanswers":"Sword Art Online Alicization War of Underworld, Sword Art Online: Alicization - War of Underworld, Sword Art Online: Alicization War of Underworld, Sword Art Online Alicization - War of Underworld",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg"
       },
       "tokyoghoulunravel":{
          "url":"https://youtu.be/mtawrvojDyU?si=u_SzkTa5BUCNykjU",
