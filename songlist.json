@@ -957,9 +957,9 @@
       "loveliveyumenotobirariko":{
          "url":"https://youtu.be/o1CM81VsXUU?si=AkwVfZIHM6yjYNL4",
          "name":"Yume no Tobira (Episode 2 Insert Song)",
-         "artist":"Riko Sakurauchi",
+         "artist":"Riko Sakurauchi (CV: Rikako Aida)",
          "source":"Love Live! Sunshine!!",
-         "tags":"Love Live, Love Live Sunshine, Riko Sakurauchi, Anime, Insert, Idol, Yume no Tobira (Episode 2 Insert Song)",
+         "tags":"Love Live, Love Live Sunshine, Riko Sakurauchi (CV: Rikako Aida), Aqours, Anime, Insert, Idol, Yume no Tobira (Episode 2 Insert Song)",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21584-Gg3LO3QETRGK.jpg"
       },
@@ -1016,6 +1016,150 @@
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, MIRAI TICKET",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
          "image":"https://static.wikia.nocookie.net/love-live/images/0/08/Omoi_yo_Hitotsu_ni_Nare.jpg/revision/latest/scale-to-width-down/800"
+      },
+      "lovelivemymaitonight":{
+         "url":"https://youtu.be/NEzMVzPgSF4?si=P3fAadFVBCFeStJk",
+         "name":"MY Mai☆TONIGHT",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, MY Mai☆TONIGHT, My Mai TONIGHT",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/5/5b/My_Mai_Tonight_MIRACLE_WAVE.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivekiminokokorowakagayaiterukai":{
+         "url":"https://youtu.be/qwyZ5vEE5s4?si=x55IcKbZtQAIuZ0g",
+         "name":"Kimi no Kokoro wa Kagayaiteru kai?",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Kimi no Kokoro wa Kagayaiteru kai?",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/5/51/Kimi_no_Kokoro_wa_Kagayaiteru_kai_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivecrashmind":{
+         "url":"https://youtu.be/ddgVXZnQt8o?si=xbC1OoTzWgh2C8JF",
+         "name":"CRASH MIND",
+         "artist":"Saint Snow",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Saint Snow, Anime, Insert, Idol, CRASH MIND",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/c/ca/Awaken_the_power.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivemiraclewave":{
+         "url":"https://youtu.be/h5ih56dzVYw?si=65UeVNbVIA3WrVu9",
+         "name":"MIRACLE WAVE",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, MIRACLE WAVE",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/5/5b/My_Mai_Tonight_MIRACLE_WAVE.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivesoramokokoromoharerukara":{
+         "url":"https://youtu.be/OprHYSjg5zQ?si=PLZf7NcQYmHRSuk7",
+         "name":"Sora mo Kokoro mo Hareru kara",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Sora mo Kokoro mo Hareru kara",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/8/8a/Aqours_CHRONICLE.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivedropout":{
+         "url":"https://youtu.be/OkXsedymTxc?si=s7v0u0XiVrrd6l7F",
+         "name":"DROPOUT!?",
+         "artist":"Saint Snow",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Saint Snow, Anime, Insert, Idol, DROPOUT!?",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/c/ca/Awaken_the_power.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveawakenthepower":{
+         "url":"https://youtu.be/APoKMSuSXlM?si=VpE2ggMLALSAeBeM",
+         "name":"Awaken the power",
+         "artist":"Saint Aqours Snow",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Saint Aqours Snow, Aqours, Saint Snow, Anime, Insert, Idol, Awaken the power",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/c/ca/Awaken_the_power.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivewaterbluenewworld":{
+         "url":"https://youtu.be/fHD4nFHjTOc?si=DU1a8N5JJSQqVyf7",
+         "name":"WATER BLUE NEW WORLD",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, WATER BLUE NEW WORLD",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/11/WATER_BLUE_NEW_WORLD_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivewonderfulstories":{
+         "url":"https://youtu.be/Nd_rRH9Fy30?si=BVJbeRYM8Sm8wW2w",
+         "name":"WONDERFUL STORIES",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! Season 2",
+         "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, WONDERFUL STORIES",
+         "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/11/WATER_BLUE_NEW_WORLD_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivebokuranohashittekitamichiwa":{
+         "url":"https://youtu.be/uR3HVz0EHaM?si=_qufB6vOY3NYSNCj",
+         "name":"Bokura no Hashittekita Michi wa...",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Aqours, Anime, Movie, Opening, Idol, Bokura no Hashittekita Michi wa...",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/d/de/Bokura_no_Hashittekita_Michi_wa…／Next_SPARKLING%21%21_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivenextsparkling":{
+         "url":"https://youtu.be/l5HblElvFSE?si=TTROVvB4DrgorVc4",
+         "name":"Next SPARKLING!!",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Aqours, Anime, Movie, Ending, Idol, Next SPARKLING!!",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/d/de/Bokura_no_Hashittekita_Michi_wa…／Next_SPARKLING%21%21_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivetousoumeisoumobiusloop":{
+         "url":"https://youtu.be/WRVyHfZXGHY?si=N50QaZ1471SDiU7w",
+         "name":"Tousou Meisou Mobius Loop",
+         "artist":"Kanan Matsuura (CV: Nanaka Suwa), Dia Kurosawa (CV: Arisa Komiya), Mari Ohara (CV: Aina Suzuki)",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Kanan Matsuura (CV: Nanaka Suwa), Dia Kurosawa (CV: Arisa Komiya), Mari Ohara (CV: Aina Suzuki), Aqours, Anime, Movie, Insert, Idol, Tousou Meisou Mobius Loop",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/a/a0/Tousou_Meisou_Mobius_Loop／Hop_Stop_Nonstop%21_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivehopstopnonstop":{
+         "url":"https://youtu.be/I2pz4zlngr8?si=ZNHGM9sfwgufxGAH",
+         "name":"Hop? Stop? Nonstop!",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Aqours, Anime, Movie, Insert, Idol, Hop? Stop? Nonstop!",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/a/a0/Tousou_Meisou_Mobius_Loop／Hop_Stop_Nonstop%21_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivebelieveagain":{
+         "url":"https://youtu.be/Zr7I5l-XPz8?si=5l0aqGHl7cKQVja1",
+         "name":"Believe again",
+         "artist":"Saint Snow",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Saint Snow, Anime, Movie, Insert, Idol, Believe again",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/76/Believe_again／Brightest_Melody／Over_The_Next_Rainbow_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivebrightestmelody":{
+         "url":"https://youtu.be/9FZx2gPq4Fg?si=kFW9djI87HRHGeXy",
+         "name":"Brightest Melody",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Aqours, Anime, Movie, Insert, Idol, Brightest Melody",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/76/Believe_again／Brightest_Melody／Over_The_Next_Rainbow_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivekisekihikaru":{
+         "url":"https://youtu.be/KpkjThm33Fs?si=k-3lIcG27zUh5UXM",
+         "name":"Kiseki Hikaru",
+         "artist":"Aqours",
+         "source":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow",
+         "tags":"Love Live, Love Live Sunshine, Love Live Sunshine The School Idol Movie: Over the Rainbow, Aqours, Anime, Movie, Insert, Idol, Kiseki Hikaru",
+         "sourceanswers":"Love Live! Sunshine!! The School Idol Movie: Over the Rainbow, Love Live Sunshine!! The School Idol Movie: Over the Rainbow, Love Live! Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie: Over the Rainbow, Love Live Sunshine The School Idol Movie Over the Rainbow Love Live Sunshine The School Idol Movie, Love Live Sunshine Over the Rainbow",
+         "image":"https://static.wikia.nocookie.net/love-live/images/9/91/LLSS_S2_BD_Vol_7_Front.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivenijiiropassions":{
          "url":"https://youtu.be/KAEEhyfWtrw?si=qoJtDOmX8c_j7dLj",
@@ -1103,7 +1247,7 @@
          "name":"Tiny Stars",
          "artist":"Shibuya Kanon (CV: Sayuri Date), Tang Keke (CV: Liyuu)",
          "source":"Love Live! Superstar!!",
-         "tags":"Love Live, Love Live Superstar, Shibuya Kanon (CV: Sayuri Date), Tang Keke (CV: Liyuu), Anime, Insert, Idol, Tiny Stars",
+         "tags":"Love Live, Love Live Superstar, Shibuya Kanon (CV: Sayuri Date), Tang Keke (CV: Liyuu), Liella!, Anime, Insert, Idol, Tiny Stars",
          "sourceanswers":"Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
          "image":"https://static.wikia.nocookie.net/love-live/images/8/8a/Mirai_Yohou_Hallelujah_Tiny_Stars_Ep_3_Cover_Edition.jpg/revision/latest/scale-to-width-down/500"
       },
@@ -1112,7 +1256,7 @@
          "name":"Tokonatsu☆Sunshine",
          "artist":"Shibuya Kanon (CV: Sayuri Date), Tang Keke (CV: Liyuu), Heanna Sumire (CV: Naomi Payton), Arashi Chisato (CV: Nako Misaki)",
          "source":"Love Live! Superstar!!",
-         "tags":"Love Live, Love Live Superstar, Shibuya Kanon (CV: Sayuri Date), Tang Keke (CV: Liyuu), Heanna Sumire (CV: Naomi Payton), Arashi Chisato (CV: Nako Misaki), Anime, Insert, Idol, Tokonatsu☆Sunshine",
+         "tags":"Love Live, Love Live Superstar, Shibuya Kanon (CV: Sayuri Date), Tang Keke (CV: Liyuu), Heanna Sumire (CV: Naomi Payton), Arashi Chisato (CV: Nako Misaki), Liella!, Anime, Insert, Idol, Tokonatsu☆Sunshine",
          "sourceanswers":"Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
          "image":"https://static.wikia.nocookie.net/love-live/images/1/15/Tokonatsu_Sunshine_Insert_Single_2_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
@@ -1143,15 +1287,6 @@
          "sourceanswers":"Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
          "image":"https://static.wikia.nocookie.net/love-live/images/2/2b/Nonfiction%21%21_Insert_Single_1_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
-      "lovelivewatashinosymphony":{
-         "url":"https://youtu.be/R5LZsQk1uyY?si=TgtC-XnAJVmvS71W",
-         "name":"Watashi no Symphony ~Shibuya Kanon Ver.~",
-         "artist":"Shibuya Kanon (CV: Sayuri Date)",
-         "source":"Love Live! Superstar!!",
-         "tags":"Love Live, Love Live Superstar, Shibuya Kanon (CV: Sayuri Date), Anime, Insert, Idol, Watashi no Symphony ~Shibuya Kanon Ver.~",
-         "sourceanswers":"Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
-         "image":"https://static.wikia.nocookie.net/love-live/images/4/47/Hajimari_Kimi_no_Sora_Watashi_o_Kanaeru_Monogatari_Edition.jpg/revision/latest/scale-to-width-down/500"
-      },
       "lovelivestarlightprologue":{
          "url":"https://youtu.be/H8PhMQrfEVA?si=6UyQRZcY_um5z9wE",
          "name":"Starlight Prologue",
@@ -1167,7 +1302,7 @@
          "artist":"Liella!",
          "source":"Love Live! Superstar!! Season 2",
          "tags":"Love Live, Love Live Superstar, Liella!, Anime, Insert, Idol, Vitamin SUMMER!",
-         "sourceanswers":"Love Live! Superstar!! Season 2, Love Live! Superstar Season 2, Love Live Superstar!! Season 2, Love Live Superstar Season 2",
+         "sourceanswers":"Love Live! Superstar!! Season 2, Love Live! Superstar Season 2, Love Live Superstar!! Season 2, Love Live Superstar Season 2, Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
          "image":"https://static.wikia.nocookie.net/love-live/images/5/5b/Vitamin_SUMMER%21_Insert_Song_Single_2_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivewachugonnado":{
@@ -2205,30 +2340,12 @@
          "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/b4/La_Revue_de_Soirée_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
       },
-      "revuestarlightuntiltheworldisturnedtoashmoviever":{
-         "url":"https://youtu.be/ZyKT_eF8Hao?si=xv8JJOC0MR5Ljq8E",
-         "name":"Until the World is Turned to Ash - Movie Ver.",
-         "artist":"Hoshimi Junna (CV: Hinata Sato), Kagura Hikari (CV: Suzuko Mimori), Aijo Karen (CV: Momoyo Koyama)",
-         "source":"Shōjo☆Kageki Revue Starlight",
-         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Hoshimi Junna (CV: Hinata Sato), Kagura Hikari (CV: Suzuko Mimori), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, Until the World is Turned to Ash - Movie Ver., Sekai o Hai ni Suru Made - Movie Ver.",
-         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
-      },
       "revuestarlightrondothestarknowsanother":{
          "url":"https://youtu.be/d0xRCbAjeog?si=yfHGCfQ6J7u6-RVU",
          "name":"The Star Knows ~Another~",
          "artist":"Hoshimi Junna (CV: Hinata Sato), Aijo Karen (CV: Momoyo Koyama)",
          "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Hoshimi Junna (CV: Hinata Sato), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, The Star Knows ~Another~",
-         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
-      },
-      "revuestarlightrondoprideandarrogancemoviever":{
-         "url":"https://youtu.be/TuybarmaAzM?si=eQdsouyDLB4VOFQD",
-         "name":"Pride and Arrogance - Movie Ver.",
-         "artist":"Aijo Karen (CV: Momoyo Koyama), Tendo Maya (CV: Maho Tomita)",
-         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
-         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Aijo Karen (CV: Momoyo Koyama), Tendo Maya (CV: Maho Tomita), Anime, Movie, Insert, Music, Drama, Pride and Arrogance - Movie Ver., Hokori to Ogori - Movie Ver.",
          "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
       },
@@ -2250,42 +2367,6 @@
          "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
       },
-      "revuestarlightrondorecreatemoviever":{
-         "url":"https://youtu.be/Exc9VSKtS8g?si=FqZy3MfrKhybGHt5",
-         "name":"RE:CREATE - Movie Ver.",
-         "artist":"Kagura Hikari (CV: Suzuko Mimori), Daiba Nana (CV: Moeka Koizumi)",
-         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
-         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Kagura Hikari (CV: Suzuko Mimori), Daiba Nana (CV: Moeka Koizumi), Anime, Movie, Insert, Music, Drama, RE:CREATE - Movie Ver.",
-         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
-      },
-      "revuestarlightrondothebondofthestarsmoviever":{
-         "url":"https://youtu.be/eoRNlsMdAVM?si=dgONkFGsG3zgDEfu",
-         "name":"The Bonds of the Stars - Movie Ver.",
-         "artist":"Daiba Nana (CV: Moeka Koizumi), Aijo Karen (CV: Momoyo Koyama)",
-         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
-         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Daiba Nana (CV: Moeka Koizumi), Aijo Karen (CV: Momoyo Koyama), Anime, Movie, Insert, Music, Drama, The Bonds of the Stars - Movie Ver., Hoshiboshi no Kizuna - Movie Ver.",
-         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
-      },
-      "revuestarlightrondostardiamondmoviever":{
-         "url":"https://youtu.be/wPjk-_LDfK0?si=f9_niR4vfo7n-yGy",
-         "name":"Star Diamond - Movie Ver.",
-         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba)",
-         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
-         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba), Anime, Movie, Insert, Music, Drama, Star Diamond - Movie Ver.",
-         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
-      },
-      "revuestarlightrondostarlightmoviever":{
-         "url":"https://youtu.be/b7AR9yrYrvo?si=0J9daQT2CZCC04xB",
-         "name":"Starlight - Movie Ver.",
-         "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori)",
-         "source":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo",
-         "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Anime, Movie, Insert, Music, Drama, Starlight - Movie Ver.",
-         "sourceanswers":"Shōjo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo☆Kageki Revue Starlight: Rondo Rondo Rondo, Shōjo Kageki Revue Starlight: Rondo Rondo Rondo, Shoujo Kageki Revue Starlight: Rondo Rondo Rondo, Revue Starlight: Rondo Rondo Rondo, Revue Starlight Rondo Rondo Rondo",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113023-ppUSdBgb9pzc.jpg"
-      },
       "revuestarlightrondohymntorebirth":{
          "url":"https://youtu.be/oO7eqJK0Dqo?si=ojw5ALtVzS9LNnlI",
          "name":"Hymn to Rebirth",
@@ -2301,7 +2382,7 @@
          "artist":"Daiba Nana (CV: Moeka Koizumi)",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Daiba Nana (CV: Moeka Koizumi), Anime, Movie, Insert, Music, Drama, wi(l)d-screen baroque, wild-screen baroque",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/a/a7/Movie_Insert_Songs_Vol._2.jpg/revision/latest/scale-to-width-down/500"
       },
       "revuestarlightmoviewagamamahighway":{
@@ -2310,7 +2391,7 @@
          "artist":"Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito)",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Isurugi Futaba (CV: Teru Ikuta), Hanayagi Kaoruko (CV: Ayasa Ito), Anime, Movie, Insert, Music, Drama, Wagamama Highway",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/57/Movie_Insert_Songs_Vol._1.jpg/revision/latest/scale-to-width-down/500"
       },
       "revuestarlightmoviemedalsuzdalpanic":{
@@ -2319,7 +2400,7 @@
          "artist":"Kagura Hikari (CV: Suzuko Mimori), Tsuyuzaki Mahiru (CV: Haruki Iwata)",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Kagura Hikari (CV: Suzuko Mimori), Tsuyuzaki Mahiru (CV: Haruki Iwata), Anime, Movie, Insert, Music, Drama, MEDAL SUZDAL PANIC◎○●, MEDAL SUZDAL PANIC",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/57/Movie_Insert_Songs_Vol._1.jpg/revision/latest/scale-to-width-down/500"
       },
       "revuestarlightmoviepenchikarakatana":{
@@ -2328,7 +2409,7 @@
          "artist":"Hoshimi Junna (CV: Hinata Sato), Daiba Nana (CV: Moeka Koizumi)",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Hoshimi Junna (CV: Hinata Sato), Daiba Nana (CV: Moeka Koizumi), Anime, Movie, Insert, Music, Drama, Pen:Chikara:Katana, Pen Chikara Katana",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/a/a7/Movie_Insert_Songs_Vol._2.jpg/revision/latest/scale-to-width-down/500"
       },
       "revuestarlightmovieutsukushikihitoaruiwasorewa":{
@@ -2337,7 +2418,7 @@
          "artist":"Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba)",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Tendo Maya (CV: Maho Tomita), Saijo Claudine (CV: Aina Aiba), Anime, Movie, Insert, Music, Drama, Utsukushiki Hito Arui wa Sore wa",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/57/Movie_Insert_Songs_Vol._1.jpg/revision/latest/scale-to-width-down/500"
       },
       "revuestarlightmovieusuperstarspectacle":{
@@ -2346,7 +2427,7 @@
          "artist":"Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori)",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Anime, Movie, Insert, Music, Drama, Super Star Spectacle",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/a/a7/Movie_Insert_Songs_Vol._2.jpg/revision/latest/scale-to-width-down/500"
       },
       "revuestarlightmoviewatashitachiwamoubutainoue":{
@@ -2355,8 +2436,17 @@
          "artist":"Starlight Kuku Gumi",
          "source":"Revue Starlight: The Movie",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Revue Starlight: The Movie, Starlight Kuku Gumi, Anime, Movie, Ending, Music, Drama, Watashitachi wa Mō Butai no Ue, Watashitachi wa Mou Butai no Ue",
-         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight",
+         "sourceanswers":"Revue Starlight: The Movie, Revue Starlight The Movie, Gekijōban Shōjo☆Kageki Revue Starlight, Gekijōban Shōjo Kageki Revue Starlight, Gekijouban Shoujo Kageki Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/1/10/Watashitachi_wa_Mō_Butai_no_Ue.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightdiscovery":{
+         "url":"https://youtu.be/Fs1LZ0qtj6E?si=LxopzsL9S6Mn79BH",
+         "name":"Discovery!",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Shōjo☆Kageki Revue Starlight -Re LIVE-",
+         "tags":"Shōjo☆Kageki Revue Starlight, Shōjo☆Kageki Revue Starlight -Re LIVE-, Revue Starlight, Revue Starlight Re LIVE, Starlight Kuku Gumi, Video Game, Opening, Music, Drama, Gacha, Discovery!",
+         "sourceanswers":"Shōjo☆Kageki Revue Starlight -Re LIVE-, Shoujo Kageki Revue Starlight -Re LIVE-, Revue Starlight -Re LIVE-, Shoujo Kageki Revue Starlight Re LIVE, Revue Starlight Re LIVE",
+         "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/52/Hoshi_no_DIALOGUE_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
       },
       "spiritedawaythesixthstation":{
          "url":"https://youtu.be/qSNi0kYQH8Q?si=awU_sVnqUGCyQ4l5",
@@ -3165,7 +3255,7 @@
          "artist":"Poppin'Party",
          "source":"BanG Dream! 2nd Season (Opening 1)",
          "tags":"BanG Dream!, Poppin'Party, Anime, Opening, Ending, Music, KIZUNA MUSIC♪, KIZUNA MUSIC",
-         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season",
+         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/f/f5/Poppin%27Party_12th_Single_Blu-ray_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreambravejewel":{
@@ -3174,7 +3264,7 @@
          "artist":"Roselia",
          "source":"BanG Dream! 2nd Season (Opening 2)",
          "tags":"BanG Dream!, Roselia, Anime, Opening, Music, BRAVE JEWEL",
-         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season",
+         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/d/df/Roselia_7th_Single_Blu-ray_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreamsafeandsound":{
@@ -3183,7 +3273,7 @@
          "artist":"Roselia",
          "source":"BanG Dream! 2nd Season (Ending 1)",
          "tags":"BanG Dream!, Roselia, Anime, Ending, Music, Safe and Sound",
-         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season",
+         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/a/a9/Roselia_8th_Single_Limited_Edition_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreamjumpin":{
@@ -3192,7 +3282,7 @@
          "artist":"Poppin'Party",
          "source":"BanG Dream! 2nd Season (Ending 2)",
          "tags":"BanG Dream!, Poppin'Party, Anime, Ending, Music, Jumpin'",
-         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season",
+         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/8/8d/Poppin%27Party_13th_Single_Limited_Edition_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreamfirebird":{
@@ -3201,7 +3291,7 @@
          "artist":"Roselia",
          "source":"BanG Dream! 2nd Season",
          "tags":"BanG Dream!, Roselia, Anime, Insert, Ending, Music, FIRE BIRD",
-         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season, BanG Dream! 3rd Season, BanG Dream 3rd Season",
+         "sourceanswers":"BanG Dream! 2nd Season, BanG Dream 2nd Season, BanG Dream! 3rd Season, BanG Dream 3rd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/4/42/Roselia_9th_Single_Blu-Ray_Edition_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreaminitial":{
@@ -3210,7 +3300,7 @@
          "artist":"Poppin'Party",
          "source":"BanG Dream! 3rd Season (Opening 1)",
          "tags":"BanG Dream!, Poppin'Party, Anime, Opening, Music, Initial",
-         "sourceanswers":"BanG Dream! 3rd Season, BanG Dream 3rd Season",
+         "sourceanswers":"BanG Dream! 3rd Season, BanG Dream 3rd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/6/62/Poppin%27Party_15th_Single_Blu-ray_Edition_Cover_-Kirakira_Ver.-.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreamyumewouchinukushunkanni":{
@@ -3219,7 +3309,7 @@
          "artist":"Poppin'Party",
          "source":"BanG Dream! 3rd Season (Ending 1)",
          "tags":"BanG Dream!, Poppin'Party, Anime, Ending, Music, Yume wo Uchinuku Shunkan ni!",
-         "sourceanswers":"BanG Dream! 3rd Season, BanG Dream 3rd Season",
+         "sourceanswers":"BanG Dream! 3rd Season, BanG Dream 3rd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/0/0c/Poppin%27Party_15th_Single_Blu-ray_Edition_Cover_-Dokidoki_Ver.-.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreamyumewouchinukushunkanni13":{
@@ -3228,7 +3318,7 @@
          "artist":"Poppin'Party, Roselia, RAISE A SUILEN",
          "source":"BanG Dream! 3rd Season (Ending 3)",
          "tags":"BanG Dream!, Poppin'Party, Roselia, RAISE A SUILEN, Anime, Ending, Music, Yume wo Uchinuku Shunkan ni! (3rd Season #13 Full Ver.)",
-         "sourceanswers":"BanG Dream! 3rd Season, BanG Dream 3rd Season",
+         "sourceanswers":"BanG Dream! 3rd Season, BanG Dream 3rd Season, BanG Dream!, BanG Dream",
          "image":"https://static.wikia.nocookie.net/bandori/images/5/5b/BanG_Dream%21_Third_Season_Key_Visual.jpg/revision/latest/scale-to-width-down/500"
       },
       "bangdreamhitoshizuku":{
