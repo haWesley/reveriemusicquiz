@@ -3777,16 +3777,43 @@
          "artist":"Kanako Ito",
          "source":"Steins;Gate (Opening 1)",
          "tags":"Anime, Steins;Gate, Kanako Ito, Opening, Drama, Sci-fi, Mystery, Hacking to the Gate",
-         "sourceanswers":"Steins;Gate, Steins Gate",
+         "sourceanswers":"Steins;Gate",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg"
+      },
+      "steinsgatetokitsukasadorujuuninomeiyaku":{
+         "url":"https://youtu.be/EyRD3eG8y9s?si=6uO09uVZL4PbnWK9",
+         "name":"Toki Tsukasadoru Juuni no Meiyaku",
+         "artist":"Yui Sakakibara",
+         "source":"Steins;Gate (Ending 1)",
+         "tags":"Anime, Steins;Gate, Yui Sakakibara, Ending, Drama, Sci-fi, Mystery, Toki Tsukasadoru Juuni no Meiyaku",
+         "sourceanswers":"Steins;Gate",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg"
+      },
+      "steinsgatefakeverthandi":{
+         "url":"https://youtu.be/_hW_t0875Gk?si=XvsuT7sRIpeSj-qQ",
+         "name":"Fake Verthandi",
+         "artist":"Takeshi Abo",
+         "source":"Steins;Gate (Ending 2)",
+         "tags":"Anime, Steins;Gate, Takeshi Abo, Ending, Drama, Sci-fi, Mystery, Toki Tsukasadoru Juuni no Meiyaku",
+         "sourceanswers":"Steins;Gate",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg"
       },
       "steinsgateskycladobserver":{
-         "url":"https://youtu.be/ZGM90Bo3zH0?si=rG4SDPj8dXLPoQZO",
+         "url":"https://youtu.be/k2LDC0sTsEQ?si=FsIqWjJfnzbAV47h",
          "name":"Skyclad Observer",
          "artist":"Kanako Ito",
          "source":"Steins;Gate (Ending 3)",
          "tags":"Anime, Steins;Gate, Kanako Ito, Ending, Drama, Sci-fi, Mystery, Skyclad Observer",
-         "sourceanswers":"Steins;Gate, Steins Gate",
+         "sourceanswers":"Steins;Gate",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg"
+      },
+      "steinsgateanotherheaven":{
+         "url":"https://youtu.be/Pvt4zgNmz80?si=AJcwowyoo-Q1eFE6",
+         "name":"Another Heaven",
+         "artist":"Kanako Ito",
+         "source":"Steins;Gate (Ending 4)",
+         "tags":"Anime, Steins;Gate, Kanako Ito, Ending, Drama, Sci-fi, Mystery, Another Heaven",
+         "sourceanswers":"Steins;Gate",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-7pdcVzQSkKxT.jpg"
       },
       "steinsgateanatanoerandakonotokiwo":{
@@ -3794,7 +3821,7 @@
          "name":"Anata no Eranda Kono Toki wo",
          "artist":"Kanako Ito",
          "source":"Steins;Gate: The Movie - Load Region of Déjà vu (Opening 1)",
-         "tags":"Anime, Movie, Steins;Gate, Kanako Ito, Opening, Drama, Sci-fi, Mystery, Anata no Eranda Kono Toki wo",
+         "tags":"Anime, Movie, Steins;Gate, Steins;Gate: The Movie - Load Region of Déjà vu, Steins;Gate: The Movie Load Region of Deja vu, Kanako Ito, Opening, Drama, Sci-fi, Mystery, Anata no Eranda Kono Toki wo",
          "sourceanswers":"Steins;Gate: The Movie - Load Region of Déjà vu, Steins;Gate: The Movie Load Region of Déjà vu, Steins;Gate The Movie Load Region of Déjà vu, Steins;Gate: The Movie Load Region of Deja vu, Steins;Gate The Movie Load Region of Deja vu, Steins;Gate The Movie Load Region of Deja vu",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png"
       },
@@ -3803,9 +3830,18 @@
          "name":"Itsumo Kono Basho de",
          "artist":"Ayane",
          "source":"Steins;Gate: The Movie - Load Region of Déjà vu (Ending 1)",
-         "tags":"Anime, Movie, Steins;Gate, Ayane, Ending, Drama, Sci-fi, Mystery, Itsumo Kono Basho de",
+         "tags":"Anime, Movie, Steins;Gate, Steins;Gate: The Movie - Load Region of Déjà vu, Steins;Gate: The Movie Load Region of Deja vu, Ayane, Ending, Drama, Sci-fi, Mystery, Itsumo Kono Basho de",
          "sourceanswers":"Steins;Gate: The Movie - Load Region of Déjà vu, Steins;Gate: The Movie Load Region of Déjà vu, Steins;Gate The Movie Load Region of Déjà vu, Steins;Gate: The Movie Load Region of Deja vu, Steins;Gate The Movie Load Region of Deja vu, Steins;Gate The Movie Load Region of Deja vu",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11577-rhqsxLOAge4f.png"
+      },
+      "steinsgate0fatima":{
+         "url":"https://youtu.be/hgFPAJNuVhM?si=okqUPxrTScpw9mRH",
+         "name":"Fatima",
+         "artist":"Kanako Ito",
+         "source":"Steins;Gate (Opening 1)",
+         "tags":"Anime, Steins;Gate, Steins;Gate 0, Kanako Ito, Ending, Drama, Sci-fi, Mystery, Fatima",
+         "sourceanswers":"Steins;Gate 0",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21127-7ARWZkDXKiiD.jpg"
       }
    }
 }
