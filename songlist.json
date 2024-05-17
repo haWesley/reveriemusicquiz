@@ -360,12 +360,111 @@
          "sourceanswers":"Beck, Beck Mongolian Chop Squad, Beck: Mongolian Chop Squad",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx57-HhnvbHS4ujea.png"
       },
+      "onepieceweare":{
+         "url":"https://youtu.be/xPyJ2XhSKOI?si=wZEpl1uBqyMoxTlW",
+         "name":"We Are!",
+         "artist":"Hiroshi Kitadani",
+         "source":"One Piece (Opening 1)",
+         "tags":"One Piece, Anime, Opening, Hiroshi Kitadani, Shonen, We Are",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecebelieve":{
+         "url":"https://youtu.be/WmkRJd2Lv0A?si=HLPp1Ub12YCgeLqK",
+         "name":"Believe",
+         "artist":"Folder 5",
+         "source":"One Piece (Opening 2)",
+         "tags":"One Piece, Anime, Opening, Folder 5, Shonen, Believe",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecehikarie":{
+         "url":"https://youtu.be/cSP9KTL86hw?si=hASnn9Qb1thRc8uq",
+         "name":"Hikari e",
+         "artist":"The Babystars",
+         "source":"One Piece (Opening 3)",
+         "tags":"One Piece, Anime, Opening, The Babystars, Shonen, Hikari e",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecebonvoyage":{
+         "url":"https://youtu.be/TUISHyAfBXs?si=aTFJJKlGyYbtpgWE",
+         "name":"BON VOYAGE!",
+         "artist":"Bon-Bon Blanco",
+         "source":"One Piece (Opening 4)",
+         "tags":"One Piece, Anime, Opening, Bon-Bon Blanco, Shonen, BON VOYAGE!",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecekokoronochizu":{
+         "url":"https://youtu.be/ZihqCaurrx4?si=nEkoq3KncBgmJzeq",
+         "name":"Kokoro no Chizu",
+         "artist":"BOYSTYLE",
+         "source":"One Piece (Opening 5)",
+         "tags":"One Piece, Anime, Opening, BOYSTYLE, Shonen, Kokoro no Chizu",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecebrandnewworld":{
+         "url":"https://youtu.be/_ULPAtFBkxc?si=WuKqp_6h5yn2FD9u",
+         "name":"Brand New World",
+         "artist":"D-51",
+         "source":"One Piece (Opening 6)",
+         "tags":"One Piece, Anime, Opening, D-51, Shonen, Brand New World",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecewearestrawhatversion":{
+         "url":"https://youtu.be/QtSgtBAyqDo?si=C8EZUUd3I61am6SJ",
+         "name":"We Are! (Straw Hat version)",
+         "artist":"Straw Hat Pirates",
+         "source":"One Piece (Opening 7)",
+         "tags":"One Piece, Anime, Opening, Straw Hat Pirates, Shonen, We Are! (Straw Hat version)",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiececrazyrainbow":{
+         "url":"https://youtu.be/ubzG0D9RXV8?si=0-yU8jOzE2kDCOJC",
+         "name":"Crazy Rainbow",
+         "artist":"Tackey and Tsubasa",
+         "source":"One Piece (Opening 8)",
+         "tags":"One Piece, Anime, Opening, Tackey and Tsubasa, Shonen, Crazy Rainbow",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecejunglep":{
+         "url":"https://youtu.be/CFWku15Nlps?si=jI7o4Y3pVhDuhBdZ",
+         "name":"Jungle P",
+         "artist":"5050",
+         "source":"One Piece (Opening 9)",
+         "tags":"One Piece, Anime, Opening, 5050, Shonen, Jungle P",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepieceweareremix":{
+         "url":"https://youtu.be/OlQn6USvKM0?si=owEtYMVyMyLTEOzu",
+         "name":"We Are! (Remix)",
+         "artist":"TVXQ",
+         "source":"One Piece (Opening 10)",
+         "tags":"One Piece, Anime, Opening, TVXQ, Shonen, We Are! (Remix)",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
       "onepieceuuuuus":{
          "url":"https://youtu.be/W0WHjrUtrsc?si=guKsrNDoekFhH14n",
          "name":"UUUUUS!",
          "artist":"Hiroshi Kitadani",
          "source":"One Piece (Opening 26)",
-         "tags":"One Piece, Anime, Opening, Adventure, UUUUUS!",
+         "tags":"One Piece, Anime, Opening, Hiroshi Kitadani, Adventure, UUUUUS!",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepieceiwillbeatyou":{
+         "url":"https://youtu.be/57apQjbVq5w?si=1VIytOQlx8Gk7V2H",
+         "name":"I Will Beat You",
+         "artist":"Yasunori Iwasaki",
+         "source":"One Piece",
+         "tags":"One Piece, Anime, Soundtrack, Adventure, Yasunori Iwasaki, I Will Beat You",
          "sourceanswers":"One Piece",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
       },
@@ -386,15 +485,6 @@
          "tags":"Black Clover, Anime, Opening, Tomorrow X Together, Shonen, Everlasting Shine",
          "sourceanswers":"Black Clover",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-O2LWFOG8bK1u.jpg"
-      },
-      "onepieceweare":{
-         "url":"https://youtu.be/xPyJ2XhSKOI?si=wZEpl1uBqyMoxTlW",
-         "name":"We Are!",
-         "artist":"Hiroshi Kitadani",
-         "source":"One Piece (Opening 1)",
-         "tags":"One Piece, Anime, Opening, Hiroshi Kitadani, Shonen, We Are",
-         "sourceanswers":"One Piece",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
       },
       "bocchiseishuncomplex":{
          "url":"https://youtu.be/RWFW1OSlMkM?si=SsyZcu90LjLkzTLr",
@@ -1988,15 +2078,6 @@
          "tags":"Anime, Movie, Joe Hisaishi, Howl's Moving Castle, Merry Go Round of Life, Studio Ghibli, Fantasy, Adventure",
          "sourceanswers":"Howl's Moving Castle, Howls Moving Castle",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx431-dDgk19xDZjVX.jpg"
-      },
-      "onepieceiwillbeatyou":{
-         "url":"https://youtu.be/57apQjbVq5w?si=1VIytOQlx8Gk7V2H",
-         "name":"I Will Beat You",
-         "artist":"Yasunori Iwasaki",
-         "source":"One Piece",
-         "tags":"One Piece, Anime, Soundtrack, Adventure, Yasunori Iwasaki, I Will Beat You",
-         "sourceanswers":"One Piece",
-         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
       },
       "pokemonhgsschampionandred":{
          "url":"https://youtu.be/SYTS2sJWcIs?si=CSKNUwLYFeHCXi40",
