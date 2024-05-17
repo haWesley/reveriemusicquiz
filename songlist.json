@@ -4262,7 +4262,7 @@
          "name":"GIRLS' LEGEND U",
          "artist":"Akihiro Honda",
          "source":"Uma Musume: Pretty Derby",
-         "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Opening, Akihiro Honda, Gacha, Cygames, U.M.A. NEW WORLD!!",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Opening, Akihiro Honda, Gacha, Sports, Idol, Cygames, U.M.A. NEW WORLD!!",
          "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/f/f6/GIRLS_LEGEND_U_Jacket.png/revision/latest/scale-to-width-down/500"
       },
@@ -4271,7 +4271,7 @@
          "name":"U.M.A. NEW WORLD!!",
          "artist":"Kan Irei",
          "source":"Uma Musume: Pretty Derby",
-         "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Opening, Kan Irei, Gacha, Cygames, U.M.A. NEW WORLD!!",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Opening, Kan Irei, Gacha, Sports, Idol, Cygames, U.M.A. NEW WORLD!!",
          "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/8/88/Uma_Musume_Pretty_Derby_Title_Screen.jpg/revision/latest/scale-to-width-down/500"
       },
@@ -4280,7 +4280,7 @@
          "name":"Ms. Victoria",
          "artist":"Shota Horie",
          "source":"Uma Musume: Pretty Derby",
-         "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Shota Horie, Gacha, Cygames, Ms. Victoria",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Shota Horie, Gacha, Sports, Idol, Cygames, Ms. Victoria",
          "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/5/56/Ms_VICTORIA_Jacket.png/revision/latest/scale-to-width-down/500"
       },
@@ -4289,7 +4289,7 @@
          "name":"Rising Rainbow",
          "artist":"MISOKKASU",
          "source":"Food Wars! (Opening 2)",
-         "tags":"Food Wars!, Shokugeki no Soma, MISOKKASU, Anime, Opening, Shonen, Ecchi, Rising Rainbow",
+         "tags":"Food Wars!, Shokugeki no Soma, MISOKKASU, Anime, Opening, Shonen, Ecchi, Food, Rising Rainbow",
          "sourceanswers":"Food Wars!, Food Wars, Shokugeki no Soma",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
       },
@@ -4298,7 +4298,7 @@
          "name":"ROUGH DIAMONDS",
          "artist":"SCREEN mode",
          "source":"Food Wars! The Second Plate (Opening 1)",
-         "tags":"Food Wars!, Shokugeki no Soma, SCREEN mode, Anime, Opening, Shonen, Ecchi, ROUGH DIAMONDS",
+         "tags":"Food Wars!, Shokugeki no Soma, SCREEN mode, Anime, Opening, Shonen, Ecchi, Food, ROUGH DIAMONDS",
          "sourceanswers":"Food Wars! The Second Plate: Totsuki Train Arc, Food Wars The Second Plate: Totsuki Train Arc, Food Wars!, Food Wars, Shokugeki no Soma",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
       },
@@ -4307,7 +4307,7 @@
          "name":"Symbol",
          "artist":"Luck Life",
          "source":"Food Wars! The Third Plate: Totsuki Train Arc (Opening 1)",
-         "tags":"Food Wars!, Shokugeki no Soma, Luck Life, Anime, Opening, Shonen, Ecchi, Symbol",
+         "tags":"Food Wars!, Shokugeki no Soma, Luck Life, Anime, Opening, Shonen, Ecchi, Food, Symbol",
          "sourceanswers":"Food Wars! The Third Plate: Totsuki Train Arc, Food Wars The Third Plate: Totsuki Train Arc, Food Wars!, Food Wars, Shokugeki no Soma",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
       },
@@ -4316,9 +4316,243 @@
          "name":"Spice",
          "artist":"Tokyo Karankoron",
          "source":"Food Wars! (Ending 1)",
-         "tags":"Food Wars!, Shokugeki no Soma, Tokyo Karankoron, Anime, Ending, Shonen, Ecchi, Symbol",
+         "tags":"Food Wars!, Shokugeki no Soma, Tokyo Karankoron, Anime, Ending, Shonen, Ecchi, Food, Symbol",
          "sourceanswers":"Food Wars!, Food Wars, Shokugeki no Soma",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
+      },
+      "fairytailsnowfairy":{
+         "url":"https://youtu.be/Jea-fRPKQlo?si=aqriU2cMWi9_R1iv",
+         "name":"Snow fairy",
+         "artist":"FUNKIST",
+         "source":"Fairy Tail (Opening 1)",
+         "tags":"Fairy Tail, FUNKIST, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Snow fairy",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailsenseofwonder":{
+         "url":"https://youtu.be/W0Rl8e89AlY?si=2TQKu32qml2_etPf",
+         "name":"Sense of Wonder",
+         "artist":"Idoling!!!",
+         "source":"Fairy Tail (Opening 2)",
+         "tags":"Fairy Tail, Idoling!!!, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Sense of Wonder",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailft":{
+         "url":"https://youtu.be/HxtMh-MpRog?si=DUXdE3pMHRFM5Ak6",
+         "name":"ft.",
+         "artist":"FUNKIST",
+         "source":"Fairy Tail (Opening 3)",
+         "tags":"Fairy Tail, FUNKIST, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, ft.",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailrockinplayinggame":{
+         "url":"https://youtu.be/-G1MJzYXxW4?si=yaUbTfD1E-6oc0at",
+         "name":"Rockin' Playing Game",
+         "artist":"SuG",
+         "source":"Fairy Tail (Opening 4)",
+         "tags":"Fairy Tail, SuG, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Rockin' Playing Game",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailegaonomahou":{
+         "url":"https://youtu.be/MAlYO3kydRQ?si=hP5iy8gNaJXFQRo3",
+         "name":"Egao no Mahou",
+         "artist":"MAGIC PARTY",
+         "source":"Fairy Tail (Opening 5)",
+         "tags":"Fairy Tail, MAGIC PARTY, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Egao no Mahou",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailfiesta":{
+         "url":"https://youtu.be/hqE2fOyHYl8?si=nqzpTo2SBuNAVtLm",
+         "name":"Fiesta",
+         "artist":"+Plus",
+         "source":"Fairy Tail (Opening 6)",
+         "tags":"Fairy Tail, +Plus, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Fiesta",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailevidence":{
+         "url":"https://youtu.be/A8SWX3D0TTw?si=xewyR4k3YDHQ3KTu",
+         "name":"Evidence",
+         "artist":"Daisy×Daisy",
+         "source":"Fairy Tail (Opening 7)",
+         "tags":"Fairy Tail, Daisy×Daisy, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Evidence",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailtherockcityboy":{
+         "url":"https://youtu.be/zVO-VptpJtk?si=xfDeNAj8_vanetMZ",
+         "name":"The Rock City Boy",
+         "artist":"JAMIL",
+         "source":"Fairy Tail (Opening 8)",
+         "tags":"Fairy Tail, JAMIL, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, The Rock City Boy",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailtowanokizuna":{
+         "url":"https://youtu.be/v5xs1xIk1i0?si=VY6pLB69N7s5z4I-",
+         "name":"Towa no Kizuna",
+         "artist":"Daisy×Daisy feat. Another Infinity",
+         "source":"Fairy Tail (Opening 9)",
+         "tags":"Fairy Tail, Daisy×Daisy, Another Infinity, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Towa no Kizuna",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailiwish":{
+         "url":"https://youtu.be/Lc_8WnHEtYM?si=t4TNt3-T1mACj8oh",
+         "name":"I Wish",
+         "artist":"Milky Bunny",
+         "source":"Fairy Tail (Opening 10)",
+         "tags":"Fairy Tail, Milky Bunny, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, I Wish",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailthestartingsky":{
+         "url":"https://youtu.be/nk_4c5SQ2KA?si=W_QPeEXczW1ly6Rc",
+         "name":"The Starting Sky",
+         "artist":"+Plus",
+         "source":"Fairy Tail (Opening 11)",
+         "tags":"Fairy Tail, +Plus, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, The Starting Sky",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailtenohira":{
+         "url":"https://youtu.be/jDxoZ3NuGQY?si=Ivf2BDfFJLzEhwHY",
+         "name":"Tenohira",
+         "artist":"HERO",
+         "source":"Fairy Tail (Opening 12)",
+         "tags":"Fairy Tail, HERO, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Tenohira",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailbreakthrough":{
+         "url":"https://youtu.be/417W6s7Hl3M?si=Avjh7mnMbndp53JF",
+         "name":"Breakthrough",
+         "artist":"GOING UNDER GROUND",
+         "source":"Fairy Tail (Opening 13)",
+         "tags":"Fairy Tail, GOING UNDER GROUND, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Breakthrough",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailyakusokunohi":{
+         "url":"https://youtu.be/9nfZyL05w60?si=oRkZq-9g7bGtYPoH",
+         "name":"Yakusoku no Hi",
+         "artist":"Chihiro Yonekura",
+         "source":"Fairy Tail (Opening 14)",
+         "tags":"Fairy Tail, Chihiro Yonekura, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Yakusoku no Hi",
+         "sourceanswers":"Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailmasayumechasing":{
+         "url":"https://youtu.be/K2ucNVlMeUk?si=RS0RQlggFE8jfmJn",
+         "name":"MASAYUME CHASING",
+         "artist":"BoA",
+         "source":"Fairy Tail Season 2 (Opening 15)",
+         "tags":"Fairy Tail, BoA, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, MASAYUME CHASING",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailstrikeback":{
+         "url":"https://youtu.be/6OzU6KtE9IY?si=XJRyxhfS7Gz4P7oq",
+         "name":"Strike Back",
+         "artist":"BACK-ON",
+         "source":"Fairy Tail Season 2 (Opening 16)",
+         "tags":"Fairy Tail, BACK-ON, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Strike Back",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailmysteriousmagic":{
+         "url":"https://youtu.be/UGspdC7i4WQ?si=2Xz-zplYDAIkvlyi",
+         "name":"Mysterious Magic",
+         "artist":"Do As Infinity",
+         "source":"Fairy Tail Season 2 (Opening 17)",
+         "tags":"Fairy Tail, Do As Infinity, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Mysterious Magic",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailbreakout":{
+         "url":"https://youtu.be/Fg9tLoNOoVY?si=E2yD-U4-aALBndAX",
+         "name":"BREAK-OUT",
+         "artist":"V6",
+         "source":"Fairy Tail Season 2 (Opening 18)",
+         "tags":"Fairy Tail, V6, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, BREAK-OUT",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailyumeirograffiti":{
+         "url":"https://youtu.be/r7rZFEgol6g?si=fkalAPRurumLB55F",
+         "name":"Yumeiro Graffiti",
+         "artist":"Tackey and Tsubasa",
+         "source":"Fairy Tail Season 2 (Opening 19)",
+         "tags":"Fairy Tail, Tackey and Tsubasa, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Yumeiro Graffiti",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailneverendtale":{
+         "url":"https://youtu.be/YAvuEVXYolw?si=g-8BxTYTiiVXIB1j",
+         "name":"NEVER-END TALE",
+         "artist":"Tatsuyuki Kobayashi, Konomi Suzuki",
+         "source":"Fairy Tail Season 2 (Opening 20)",
+         "tags":"Fairy Tail, Tatsuyuki Kobayashi, Konomi Suzuki, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, NEVER-END TALE",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailbelieveinmyself":{
+         "url":"https://youtu.be/x2i_fsR0Lb8?si=KyIKfIdaVChCM4ig",
+         "name":"Believe in Myself",
+         "artist":"EDGE of LIFE",
+         "source":"Fairy Tail Season 2 (Opening 21)",
+         "tags":"Fairy Tail, EDGE of LIFE, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Believe in Myself",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailashitawonarase":{
+         "url":"https://youtu.be/COhKiPzij78?si=jEUK26EEDiNZpRQo",
+         "name":"Ashita Wo Narase",
+         "artist":"Kavka Shishido",
+         "source":"Fairy Tail Season 2 (Opening 22)",
+         "tags":"Fairy Tail, Kavka Shishido, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Ashita Wo Narase",
+         "sourceanswers":"Fairy Tail Season 2, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailpowerofthedream":{
+         "url":"https://youtu.be/hjQVOEWehBU?si=qQ8D2xVV4GUTr3ny",
+         "name":"Power of the Dream",
+         "artist":"LOL",
+         "source":"Fairy Tail Final Season (Opening 23)",
+         "tags":"Fairy Tail, LOL, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, Power of the Dream",
+         "sourceanswers":"Fairy Tail Final Season, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytaildownbylaw":{
+         "url":"https://youtu.be/QHHCb_EEqgw?si=HVz733MqKoj2tk7z",
+         "name":"DOWN BY LAW",
+         "artist":"THE RAMPAGE from EXILE TRIBE",
+         "source":"Fairy Tail Final Season (Opening 24)",
+         "tags":"Fairy Tail, THE RAMPAGE from EXILE TRIBE, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, DOWN BY LAW",
+         "sourceanswers":"Fairy Tail Final Season, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailnolimit":{
+         "url":"https://youtu.be/Fs98ox_yQD4?si=QTCTz_7yX0-7cIxe",
+         "name":"NO-LIMIT",
+         "artist":"Osaka☆Syunkasyuto",
+         "source":"Fairy Tail Final Season (Opening 25)",
+         "tags":"Fairy Tail, Osaka☆Syunkasyuto, Osaka Syunkasyuto, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, NO-LIMIT",
+         "sourceanswers":"Fairy Tail Final Season, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
+      },
+      "fairytailmorethanlike":{
+         "url":"https://youtu.be/ze6M2tYME9s?si=LQQYJc5gBJEvYxku",
+         "name":"MORE THAN LIKE",
+         "artist":"BiSH",
+         "source":"Fairy Tail Final Season (Opening 26)",
+         "tags":"Fairy Tail, BiSH, Anime, Opening, Action, Adventure, Comedy, Fantasy, Shonen, MORE THAN LIKE",
+         "sourceanswers":"Fairy Tail Final Season, Fairy Tail",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6702-1FZrcyOB4NfH.png"
       }
    }
 }
