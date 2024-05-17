@@ -518,7 +518,70 @@
          "name":"Hard Knock Days",
          "artist":"GENERATIONS from EXILE TRIBE",
          "source":"One Piece (Opening 18)",
-         "tags":"One Piece, Anime, Opening, AAA, Shonen, Hard Knock Days",
+         "tags":"One Piece, Anime, Opening, GENERATIONS from EXILE TRIBE, Shonen, Hard Knock Days",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecewecan":{
+         "url":"https://youtu.be/VC0SkZyP7kQ?si=bLKMT3mzp6L9TMCW",
+         "name":"We Can",
+         "artist":"Kishidan and Hiroshi Kitadan",
+         "source":"One Piece (Opening 19)",
+         "tags":"One Piece, Anime, Opening, Kishidan and Hiroshi Kitadan, Shonen, We Can",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecehope":{
+         "url":"https://youtu.be/7Fr5Mas3AYM?si=jFUEb2ElMIrrAKa8",
+         "name":"Hope",
+         "artist":"Namie Amuro",
+         "source":"One Piece (Opening 20)",
+         "tags":"One Piece, Anime, Opening, Namie Amuro, Shonen, Hope",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecesuperpowers":{
+         "url":"https://youtu.be/A-B8LF5FlXs?si=3uwWkPIdoAUkfcxh",
+         "name":"Super Powers",
+         "artist":"V6",
+         "source":"One Piece (Opening 21)",
+         "tags":"One Piece, Anime, Opening, V6, Shonen, Super Powers",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepieceoverthetop":{
+         "url":"https://youtu.be/BuTz_PPMFj0?si=cy1MWrdbd9rQ7QU6",
+         "name":"OVER THE TOP",
+         "artist":"Hiroshi Kitadani",
+         "source":"One Piece (Opening 22)",
+         "tags":"One Piece, Anime, Opening, Hiroshi Kitadani, Shonen, OVER THE TOP",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecedreaminon":{
+         "url":"https://youtu.be/H1lPEDqeg_c?si=bBQ6SBglYyAJJHgJ",
+         "name":"Dreamin' On",
+         "artist":"Da-iCE",
+         "source":"One Piece (Opening 23)",
+         "tags":"One Piece, Anime, Opening, Da-iCE, Shonen, Dreamin' On",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecepaint":{
+         "url":"https://youtu.be/kapEyNASJSQ?si=UwhIQTXS3_TyD7jB",
+         "name":"PAINT",
+         "artist":"I Don't Like Mondays",
+         "source":"One Piece (Opening 24)",
+         "tags":"One Piece, Anime, Opening, I Don't Like Mondays, Shonen, PAINT",
+         "sourceanswers":"One Piece",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
+      },
+      "onepiecethepeak":{
+         "url":"https://youtu.be/SR89b0qqRAg?si=VthAET5HoP_Asiw0",
+         "name":"The Peak",
+         "artist":"SEKAI NO OWARI",
+         "source":"One Piece (Opening 25)",
+         "tags":"One Piece, Anime, Opening, SEKAI NO OWARI, Shonen, The Peak",
          "sourceanswers":"One Piece",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg"
       },
@@ -3641,7 +3704,7 @@
          "name":"R★O★C★K★S",
          "artist":"Hound Dog",
          "source":"Naruto (Opening 1)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Hound Dog, Naruto, R*O*C*K*S, R★O★C★K★S, R O C K S",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Hound Dog, Naruto, R*O*C*K*S, R★O★C★K★S, R O C K S",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3650,7 +3713,7 @@
          "name":"Haruka Kanata",
          "artist":"Asian Kung-Fu Generation",
          "source":"Naruto (Opening 2)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Asian Kung-Fu Generation, Naruto, Haruka Kanata",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Asian Kung-Fu Generation, Naruto, Haruka Kanata",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3659,7 +3722,7 @@
          "name":"Kanashimi Wo Yasashisa Ni",
          "artist":"little by little",
          "source":"Naruto (Opening 3)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, little by little, Naruto, Kanashimi Wo Yasashisa Ni",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, little by little, Naruto, Kanashimi Wo Yasashisa Ni",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3668,7 +3731,7 @@
          "name":"GO!!!",
          "artist":"FLOW",
          "source":"Naruto (Opening 4)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, FLOW, Naruto, GO!!!",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, FLOW, Naruto, GO!!!",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3677,7 +3740,7 @@
          "name":"Seishun Kyousoukyoku",
          "artist":"Sambomaster",
          "source":"Naruto (Opening 5)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Sambomaster, Naruto, Seishun Kyousoukyoku",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Sambomaster, Naruto, Seishun Kyousoukyoku",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3686,7 +3749,7 @@
          "name":"No Boy, No Cry",
          "artist":"STANCE PUNKS",
          "source":"Naruto (Opening 6)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, STANCE PUNKS, Naruto, No Boy No Cry",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, STANCE PUNKS, Naruto, No Boy No Cry",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3695,7 +3758,7 @@
          "name":"Namikaze Satellite",
          "artist":"SNOWKEL",
          "source":"Naruto (Opening 7)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, SNOWKEL, Naruto, Namikaze Satellite",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, SNOWKEL, Naruto, Namikaze Satellite",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3704,7 +3767,7 @@
          "name":"Re:member",
          "artist":"FLOW",
          "source":"Naruto (Opening 8)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, FLOW, Naruto, Re:member",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, FLOW, Naruto, Re:member",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3713,7 +3776,7 @@
          "name":"Yura Yura",
          "artist":"Hearts Grow",
          "source":"Naruto (Opening 9)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Hearts Grow, Naruto, Yura Yura",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Hearts Grow, Naruto, Yura Yura",
          "sourceanswers":"Naruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-LxrhhIQyiE60.jpg"
       },
@@ -3722,7 +3785,7 @@
          "name":"Hero's Come Back!!",
          "artist":"nobodyknows+",
          "source":"Naruto: Shippuuden (Opening 1)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, nobodyknows+, Naruto Shippuuden, Naruto, Hero's Come Back!!",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, nobodyknows+, Naruto Shippuuden, Naruto, Hero's Come Back!!",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3731,7 +3794,7 @@
          "name":"Distance",
          "artist":"LONG SHOT PARTY",
          "source":"Naruto: Shippuuden (Opening 2)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, LONG SHOT PARTY, Naruto Shippuuden, Naruto, Distance",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, LONG SHOT PARTY, Naruto Shippuuden, Naruto, Distance",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3740,7 +3803,7 @@
          "name":"Blue Bird",
          "artist":"Ikimono-gakari",
          "source":"Naruto: Shippuuden (Opening 3)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Ikimono-gakari, Naruto Shippuuden, Naruto, Blue Bird",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Ikimono-gakari, Naruto Shippuuden, Naruto, Blue Bird",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3749,7 +3812,7 @@
          "name":"Closer",
          "artist":"Joe Inoue",
          "source":"Naruto: Shippuuden (Opening 4)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Joe Inoue, Naruto Shippuuden, Naruto, Closer",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Joe Inoue, Naruto Shippuuden, Naruto, Closer",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3758,7 +3821,7 @@
          "name":"Hotaru no Hikari",
          "artist":"Ikimono-gakari",
          "source":"Naruto: Shippuuden (Opening 5)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Ikimono-gakari, Naruto Shippuuden, Naruto, Hotaru no Hikari",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Ikimono-gakari, Naruto Shippuuden, Naruto, Hotaru no Hikari",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3767,7 +3830,7 @@
          "name":"Sign",
          "artist":"FLOW",
          "source":"Naruto: Shippuuden (Opening 6)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, FLOW, Naruto Shippuuden, Naruto, Sign",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, FLOW, Naruto Shippuuden, Naruto, Sign",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3776,7 +3839,7 @@
          "name":"Toumeidatta Sekai",
          "artist":"Motohiro Hata",
          "source":"Naruto: Shippuuden (Opening 7)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Motohiro Hata, Naruto Shippuuden, Naruto, Toumeidatta Sekai",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Motohiro Hata, Naruto Shippuuden, Naruto, Toumeidatta Sekai",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3785,7 +3848,7 @@
          "name":"Diver",
          "artist":"NICO Touches the Walls",
          "source":"Naruto: Shippuuden (Opening 8)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, NICO Touches the Walls, Naruto Shippuuden, Naruto, Diver",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, NICO Touches the Walls, Naruto Shippuuden, Naruto, Diver",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3794,7 +3857,7 @@
          "name":"Lovers",
          "artist":"seven oops",
          "source":"Naruto: Shippuuden (Opening 9)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, seven oops, Naruto Shippuuden, Naruto, Lovers",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, seven oops, Naruto Shippuuden, Naruto, Lovers",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3803,7 +3866,7 @@
          "name":"Newsong",
          "artist":"tacica",
          "source":"Naruto: Shippuuden (Opening 10)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, tacica, Naruto Shippuuden, Naruto, Newsong",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, tacica, Naruto Shippuuden, Naruto, Newsong",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3812,7 +3875,7 @@
          "name":"Totsugeki Rock",
          "artist":"THE CRO-MAGNONS",
          "source":"Naruto: Shippuuden (Opening 11)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, THE CRO-MAGNONS, Naruto Shippuuden, Naruto, Totsugeki Rock",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, THE CRO-MAGNONS, Naruto Shippuuden, Naruto, Totsugeki Rock",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3821,7 +3884,7 @@
          "name":"Moshimo",
          "artist":"Daisuke",
          "source":"Naruto: Shippuuden (Opening 12)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Daisuke, Naruto Shippuuden, Naruto, Moshimo",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Daisuke, Naruto Shippuuden, Naruto, Moshimo",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3830,7 +3893,7 @@
          "name":"Niwaka Ame Nimo Makezu",
          "artist":"NICO Touches the Walls",
          "source":"Naruto: Shippuuden (Opening 13)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, NICO Touches the Walls, Naruto Shippuuden, Naruto, Niwaka Ame Nimo Makezu",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, NICO Touches the Walls, Naruto Shippuuden, Naruto, Niwaka Ame Nimo Makezu",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3839,7 +3902,7 @@
          "name":"Tsukino Ookisa",
          "artist":"Nogizaka46",
          "source":"Naruto: Shippuuden (Opening 14)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Nogizaka46, Naruto Shippuuden, Naruto, Tsukino Ookisa",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Nogizaka46, Naruto Shippuuden, Naruto, Tsukino Ookisa",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3848,7 +3911,7 @@
          "name":"Guren",
          "artist":"DOES",
          "source":"Naruto: Shippuuden (Opening 15)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, DOES, Naruto Shippuuden, Naruto, Guren",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, DOES, Naruto Shippuuden, Naruto, Guren",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3857,7 +3920,7 @@
          "name":"Silhouette",
          "artist":"KANA-BOON",
          "source":"Naruto: Shippuuden (Opening 16)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, KANA-BOON, Naruto Shippuuden, Naruto, Silhouette",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, KANA-BOON, Naruto Shippuuden, Naruto, Silhouette",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3866,7 +3929,7 @@
          "name":"Kaze",
          "artist":"Yamazaru",
          "source":"Naruto: Shippuuden (Opening 17)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Yamazaru, Naruto Shippuuden, Naruto, Kaze",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Yamazaru, Naruto Shippuuden, Naruto, Kaze",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3875,7 +3938,7 @@
          "name":"LINE",
          "artist":"Sukima Switch",
          "source":"Naruto: Shippuuden (Opening 18)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Sukima Switch, Naruto Shippuuden, Naruto, LINE",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Sukima Switch, Naruto Shippuuden, Naruto, LINE",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3884,7 +3947,7 @@
          "name":"Blood Circulator",
          "artist":"Asian Kung-Fu Generation",
          "source":"Naruto: Shippuuden (Opening 19)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Asian Kung-Fu Generation, Naruto Shippuuden, Naruto, Blood Circulator",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Asian Kung-Fu Generation, Naruto Shippuuden, Naruto, Blood Circulator",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3893,7 +3956,7 @@
          "name":"Kara no Kokoro",
          "artist":"Anly",
          "source":"Naruto: Shippuuden (Opening 20)",
-         "tags":"Anime, Opening, Action, Adventure, Comedy, Anly, Naruto Shippuuden, Naruto, Kara no Kokoro",
+         "tags":"Anime, Opening, Action, Adventure, Comedy, Shonen, Anly, Naruto Shippuuden, Naruto, Kara no Kokoro",
          "sourceanswers":"Naruto Shippuuden, Naruto: Shippuuden",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-tdIgU840YJHA.png"
       },
@@ -3911,7 +3974,7 @@
          "name":"Baton Road",
          "artist":"KANA-BOON",
          "source":"Boruto: Naruto Next Generations (Opening 1)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, KANA-BOON, Boruto, Boruto: Naruto Next Generations, Naruto, Baton Road",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, KANA-BOON, Boruto, Boruto: Naruto Next Generations, Naruto, Baton Road",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3920,7 +3983,7 @@
          "name":"Over",
          "artist":"Little Glee Monster",
          "source":"Boruto: Naruto Next Generations (Opening 2)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Little Glee Monster, Boruto, Boruto: Naruto Next Generations, Naruto, Over",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Little Glee Monster, Boruto, Boruto: Naruto Next Generations, Naruto, Over",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3929,7 +3992,7 @@
          "name":"It's All in the Game",
          "artist":"Qyoto",
          "source":"Boruto: Naruto Next Generations (Opening 3)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Qyoto, Boruto, Boruto: Naruto Next Generations, Naruto, It's All in the Game",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Qyoto, Boruto, Boruto: Naruto Next Generations, Naruto, It's All in the Game",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3938,7 +4001,7 @@
          "name":"Lonely Go!",
          "artist":"Brian the Sun",
          "source":"Boruto: Naruto Next Generations (Opening 4)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Brian the Sun, Boruto, Boruto: Naruto Next Generations, Naruto, Lonely Go!",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Brian the Sun, Boruto, Boruto: Naruto Next Generations, Naruto, Lonely Go!",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3947,7 +4010,7 @@
          "name":"Golden Time",
          "artist":"Fujifabric",
          "source":"Boruto: Naruto Next Generations (Opening 5)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Fujifabric, Boruto, Boruto: Naruto Next Generations, Naruto, Golden Time",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Fujifabric, Boruto, Boruto: Naruto Next Generations, Naruto, Golden Time",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3956,7 +4019,7 @@
          "name":"Teenage Dream",
          "artist":"miwa",
          "source":"Boruto: Naruto Next Generations (Opening 6)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, miwa, Boruto, Boruto: Naruto Next Generations, Naruto, Teenage Dream",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, miwa, Boruto, Boruto: Naruto Next Generations, Naruto, Teenage Dream",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3965,7 +4028,7 @@
          "name":"Starting and Growing",
          "artist":"Sambomaster",
          "source":"Boruto: Naruto Next Generations (Opening 7)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Sambomaster, Boruto, Boruto: Naruto Next Generations, Naruto, Starting and Growing",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Sambomaster, Boruto, Boruto: Naruto Next Generations, Naruto, Starting and Growing",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3974,7 +4037,7 @@
          "name":"BAKU",
          "artist":"Ikimono-gakari",
          "source":"Boruto: Naruto Next Generations (Opening 8)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Ikimono-gakari, Boruto, Boruto: Naruto Next Generations, Naruto, BAKU",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Ikimono-gakari, Boruto, Boruto: Naruto Next Generations, Naruto, BAKU",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3983,7 +4046,7 @@
          "name":"Gamushara",
          "artist":"CHiCO with Honeyworks",
          "source":"Boruto: Naruto Next Generations (Opening 9)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, CHiCO with Honeyworks, CHiCO, Boruto, Boruto: Naruto Next Generations, Naruto, Gamushara",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, CHiCO with Honeyworks, CHiCO, Boruto, Boruto: Naruto Next Generations, Naruto, Gamushara",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -3992,7 +4055,7 @@
          "name":"Gold",
          "artist":"FLOW",
          "source":"Boruto: Naruto Next Generations (Opening 10)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, FLOW, Boruto, Boruto: Naruto Next Generations, Naruto, Gold",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, FLOW, Boruto, Boruto: Naruto Next Generations, Naruto, Gold",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -4001,7 +4064,7 @@
          "name":"Kirarirari",
          "artist":"KANA-BOON",
          "source":"Boruto: Naruto Next Generations (Opening 11)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, KANA-BOON, Boruto, Boruto: Naruto Next Generations, Naruto, Kirarirari",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, KANA-BOON, Boruto, Boruto: Naruto Next Generations, Naruto, Kirarirari",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -4010,7 +4073,7 @@
          "name":"Karma",
          "artist":"Asian Kung-Fu Generation",
          "source":"Boruto: Naruto Next Generations (Opening 12)",
-         "tags":"Anime, Opening, Action, Adventure, Fantasy, Asian Kung-Fu Generation, Boruto, Boruto: Naruto Next Generations, Naruto, Karma",
+         "tags":"Anime, Opening, Action, Adventure, Fantasy, Shonen, Asian Kung-Fu Generation, Boruto, Boruto: Naruto Next Generations, Naruto, Karma",
          "sourceanswers":"Boruto: Naruto Next Generations, Boruto Naruto Next Generations, Boruto",
          "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97938-BnF6M5yTaNB1.jpg"
       },
@@ -4220,6 +4283,42 @@
          "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Shota Horie, Gacha, Cygames, Ms. Victoria",
          "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/5/56/Ms_VICTORIA_Jacket.png/revision/latest/scale-to-width-down/500"
+      },
+      "foodwarsrisingrainbow":{
+         "url":"https://youtu.be/8XAXdlrKTRE?si=73_mrpQsqW_Xo417",
+         "name":"Rising Rainbow",
+         "artist":"MISOKKASU",
+         "source":"Food Wars! (Opening 2)",
+         "tags":"Food Wars!, Shokugeki no Soma, MISOKKASU, Anime, Opening, Shonen, Ecchi, Rising Rainbow",
+         "sourceanswers":"Food Wars!, Food Wars, Shokugeki no Soma",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
+      },
+      "foodwarsroughdiamonds":{
+         "url":"https://youtu.be/FRDZdHupDvM?si=QxS5On1hwjourTaC",
+         "name":"ROUGH DIAMONDS",
+         "artist":"SCREEN mode",
+         "source":"Food Wars! The Second Plate (Opening 1)",
+         "tags":"Food Wars!, Shokugeki no Soma, SCREEN mode, Anime, Opening, Shonen, Ecchi, ROUGH DIAMONDS",
+         "sourceanswers":"Food Wars! The Second Plate: Totsuki Train Arc, Food Wars The Second Plate: Totsuki Train Arc, Food Wars!, Food Wars, Shokugeki no Soma",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
+      },
+      "foodwarssymbol":{
+         "url":"https://youtu.be/rrLQtZH1IBE?si=M4QbQBlYJ7TQmDSK",
+         "name":"Symbol",
+         "artist":"Luck Life",
+         "source":"Food Wars! The Third Plate: Totsuki Train Arc (Opening 1)",
+         "tags":"Food Wars!, Shokugeki no Soma, Luck Life, Anime, Opening, Shonen, Ecchi, Symbol",
+         "sourceanswers":"Food Wars! The Third Plate: Totsuki Train Arc, Food Wars The Third Plate: Totsuki Train Arc, Food Wars!, Food Wars, Shokugeki no Soma",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
+      },
+      "foodwarsspice":{
+         "url":"https://youtu.be/kCv3LcmD8e0?si=UBlj3Qi6jsljktjV",
+         "name":"Spice",
+         "artist":"Tokyo Karankoron",
+         "source":"Food Wars! (Ending 1)",
+         "tags":"Food Wars!, Shokugeki no Soma, Tokyo Karankoron, Anime, Ending, Shonen, Ecchi, Symbol",
+         "sourceanswers":"Food Wars!, Food Wars, Shokugeki no Soma",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20923-XbHSitEDhaxx.jpg"
       }
    }
 }
