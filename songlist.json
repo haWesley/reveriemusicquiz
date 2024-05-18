@@ -1192,55 +1192,217 @@
          "url":"https://youtu.be/KEt6LEPFlHs?si=MTk0ExoEyBk3RWqg",
          "name":"Bokura wa Ima no Naka de",
          "artist":"μ’s",
-         "source":"Love Live! School Idol Project",
-         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Opening, Ending, Idol, Bokura wa Ima no Naka de",
+         "source":"Love Live! School Idol Project (Opening 1)",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Opening, Ending, Insert, Idol, Bokura wa Ima no Naka de",
          "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project, Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2",
-         "image":"https://static.wikia.nocookie.net/love-live/images/b/ba/Bokura_wa_Ima_no_Naka_de_-_Cover.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/b/ba/Bokura_wa_Ima_no_Naka_de_-_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivekittoseishungakikoeru":{
          "url":"https://youtu.be/00HR0H8kwI4?si=sie1kN9nN8yo55AI",
          "name":"Kitto Seishun ga Kikoeru",
          "artist":"μ’s",
-         "source":"Love Live! School Idol Project",
+         "source":"Love Live! School Idol Project (Ending 2)",
          "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Ending, Idol, Kitto Seishun ga Kikoeru",
          "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
-         "image":"https://static.wikia.nocookie.net/love-live/images/0/00/Kitto_Seishun_ga_Kikoeru_-_Cover.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/0/00/Kitto_Seishun_ga_Kikoeru_-_Cover.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivesorewabokutachinokiseki":{
          "url":"https://youtu.be/5o-5xX6ZU9s?si=OOMBy6pI97qPeGIh",
          "name":"Sore wa Bokutachi no Kiseki",
          "artist":"μ’s",
-         "source":"Love Live! School Idol Project Season 2",
+         "source":"Love Live! School Idol Project Season 2 (Opening 1)",
          "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Opening, Idol, Sore wa Bokutachi no Kiseki",
          "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
-         "image":"https://static.wikia.nocookie.net/love-live/images/f/f6/Love_Live%21_2_OP_Sore_wa_bokutachi_no_kiseki.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/f/f6/Love_Live%21_2_OP_Sore_wa_bokutachi_no_kiseki.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivedonnatokimozutto":{
          "url":"https://youtu.be/2l0KZ8qUCYM?si=pydl-42ds1OhQEbe",
          "name":"Donna Toki mo Zutto",
          "artist":"μ’s",
-         "source":"Love Live! School Idol Project Season 2",
+         "source":"Love Live! School Idol Project Season 2 (Ending 1)",
          "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Ending, Idol, Donna Toki mo Zutto",
          "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
-         "image":"https://static.wikia.nocookie.net/love-live/images/1/17/Donna_Toki_mo_Zutto.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/17/Donna_Toki_mo_Zutto.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveprivatewars":{
+         "url":"https://youtu.be/jcF2yXlasjc?si=pse_fIZtgg2vF1Er",
+         "name":"Private Wars",
+         "artist":"A-RISE",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, A-RISE, Anime, Insert, Idol, Private Wars",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project, Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2",
+         "image":"https://static.wikia.nocookie.net/love-live/images/f/f6/Private_wars.png/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveaishterubanzaiprepropianomix":{
+         "url":"https://youtu.be/2RxLIYVgW6I?si=Ru1Q8Os5tffDb0J8",
+         "name":"Aishiteru Banzai! (Prepro Piano Mix)",
+         "artist":"Maki Nishikino (CV: Pile)",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, Maki Nishikino (CV: Pile), μ’s, U's, Anime, Insert, Idol, Aishiteru Banzai! (Prepro Piano Mix)",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project, Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx15051-NKzcHHzZbzxR.jpg"
+      },
+      "lovelivesusumetomorrow":{
+         "url":"https://youtu.be/fTMWyNHxK9Q?si=RXjNmTa-_T_UmYhy",
+         "name":"Susume→Tomorrow",
+         "artist":"Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori)",
+         "source":"Love Live! School Idol Project (Ending 1)",
+         "tags":"Love Live, Love Live School Idol Project, Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori), μ’s, U's, Anime, Ending, Insert, Idol, Susume→Tomorrow",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project, Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2",
+         "image":"https://static.wikia.nocookie.net/love-live/images/8/8f/LoveLive_StartDash.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivestartdashthreememberver":{
+         "url":"https://youtu.be/X9-RhimY7xQ?si=9H6eaQi4AbrohHLn",
+         "name":"START:DASH!! (Three Member Ver.)",
+         "artist":"Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori)",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori), μ’s, U's, Anime, Insert, Idol, START:DASH!! (Three Member Ver.)",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/8/8f/LoveLive_StartDash.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivestartdash":{
+         "url":"https://youtu.be/8nr4pKmGsbM?si=vhZMvJ9cMz9Fl4gQ",
+         "name":"START:DASH!!",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, START:DASH!!",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/3/3a/No_Brand_Girls.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivekorekaranosomeday":{
+         "url":"https://youtu.be/UxGpR0LfNhA?si=_NpmHYsZNZk-7XIn",
+         "name":"Korekara no Someday",
+         "artist":"Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori), Hanayo Koizumi (CV: Yurika Kubo), Rin Hoshizora (CV: Riho Iida), Maki Nishikino (CV: Pile), Nico Yazawa (CV: Sora Tokui)",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori), Hanayo Koizumi (CV: Yurika Kubo), Rin Hoshizora (CV: Riho Iida), Maki Nishikino (CV: Pile), Nico Yazawa (CV: Sora Tokui), μ’s, U's, Anime, Insert, Idol, Korekara no Someday",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/f/ff/Korekara_no_Someday_-_cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivebokuranolivekimitonolife":{
+         "url":"https://youtu.be/Ujuw92V3GH0?si=F9lu58mRvcsFdmbr",
+         "name":"Bokura no LIVE Kimi to no LIFE",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Bokura no LIVE Kimi to no LIFE",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/2/24/Bokura_no_LIVE_Kimi_to_no_LIFE_-_cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivewonderzone":{
+         "url":"https://youtu.be/YDB9zX8LgwI?si=mBpyRu7sGH5VGu2r",
+         "name":"Wonder zone",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Wonder zone",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/f/ff/Korekara_no_Someday_-_cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivenobrandgirls":{
+         "url":"https://youtu.be/O0gKNO8HgBk?si=4UWkjk9Oo-478ZcR",
+         "name":"No brand girls",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, No brand girls",
+         "sourceanswers":"Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/3/3a/No_Brand_Girls.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemusicstart":{
          "url":"https://youtu.be/6k6IzQmTq1A?si=INuqu3inbPp-3iya",
          "name":"Music S.T.A.R.T!!",
          "artist":"μ’s",
          "source":"Love Live! School Idol Project OVA",
-         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Music S.T.A.R.T!!",
-         "sourceanswers":"Love Live! School Idol Project OVA, Love Live School Idol Project OVA",
-         "image":"https://static.wikia.nocookie.net/love-live/images/b/b7/Music_START_-_Cover.jpg/revision/latest/scale-to-width-down/800"
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, OVA, Insert, Idol, Music S.T.A.R.T!!",
+         "sourceanswers":"Love Live! School Idol Project OVA, Love Live School Idol Project OVA, Love Live! School Idol Project, Love Live School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/b/b7/Music_START_-_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivekoremadenolovelivemusicalver":{
+         "url":"https://youtu.be/e3nq4U4k1mY?si=YAiwttIFPbY2N4c6",
+         "name":"Koremade no Love Live! ~Musical Ver.~",
+         "artist":"μ’s, Hideko (CV: Marie Miyake), Fumiko (CV: Nozomi Yamamoto), Mika (CV: Sayuri Hara)",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Hideko (CV: Marie Miyake), Fumiko (CV: Nozomi Yamamoto), Mika (CV: Sayuri Hara), Anime, Insert, Idol, Koremade no Love Live! ~Musical Ver.~",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19111-06M6xbT8fEbp.jpg"
+      },
+      "loveliveshockingparty":{
+         "url":"https://youtu.be/ZhKF0Dh_Wig?si=TmO-WLo9USamDRO7",
+         "name":"Shocking Party",
+         "artist":"A-RISE",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, A-RISE, Anime, Insert, Idol, Shocking Party",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/b/b0/Shocking_Party.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveyumenotobira":{
+         "url":"https://youtu.be/8fAjUvOfnRo?si=fGRE64qDsjSMlcsE",
+         "name":"Yume no Tobira",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Yume no Tobira",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/13/Yume_no_Tobira.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivelovewingbell":{
+         "url":"https://youtu.be/vI6QIoisuq0?si=l5QsTNtsgWDjmcRN",
+         "name":"Love wing bell",
+         "artist":"Rin Hoshizora (CV: Riho Iida), Hanayo Koizumi (CV: Yurika Kubo), Maki Nishikino (CV: Pile), Nico Yazawa (CV: Sora Tokui), Eli Ayase (CV: Yoshino Nanjou), Nozomi Tojo (CV: Kusuda Aina)",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, Rin Hoshizora (CV: Riho Iida), Hanayo Koizumi (CV: Yurika Kubo), Maki Nishikino (CV: Pile), Nico Yazawa (CV: Sora Tokui), Eli Ayase (CV: Yoshino Nanjou), Nozomi Tojo (CV: Kusuda Aina), μ’s, U's, Anime, Insert, Idol, Love wing bell",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/70/Love_Wing_Bell.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivedancingstarsonme":{
+         "url":"https://youtu.be/PBeKaFMS6nY?si=xgodhcfkqHUMTKys",
+         "name":"Dancing stars on me!",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Dancing stars on me!",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/70/Love_Wing_Bell.png/revision/latest/scale-to-width-down/500"
       },
       "lovelivesnowhalation":{
          "url":"https://youtu.be/OzGVz1ClxIc?si=NAMEC27Myb0m_TqB",
          "name":"Snow halation",
          "artist":"μ’s",
          "source":"Love Live! School Idol Project Season 2",
-         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Snow halation",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Ending, Insert, Idol, Snow halation",
          "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
-         "image":"https://static.wikia.nocookie.net/love-live/images/a/ac/Snow_halation_-_cover.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/a/ac/Snow_halation_-_cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivekirakirasensation":{
+         "url":"https://youtu.be/-VVzcmgrPpg?si=tDBWkX1kNkhMoXcV",
+         "name":"KiRa-KiRa Sensation!",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, KiRa-KiRa Sensation!",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/1c/KiRa-KiRa_Sensation%21_-_Happy_maker%21_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivehappymaker":{
+         "url":"https://youtu.be/ULMS2CXjqGs?si=WNbd85F5ECYt2a5E",
+         "name":"Happy maker!",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Happy maker!",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/1c/KiRa-KiRa_Sensation%21_-_Happy_maker%21_Cover.png/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveaishterubanzai":{
+         "url":"https://youtu.be/EkSrgJxJwQg?si=AV-Takej2HK42c_S",
+         "name":"Aishiteru Banzai! (Piano Mix)",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Aishiteru Banzai! (Piano Mix)",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/e/e1/Mo_Gyutto_-love-_de_Sekkin_Chu%21_2.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveohloveandpeace":{
+         "url":"https://youtu.be/9cdukRjlaJQ?si=LrPFpoci78vuO2sM",
+         "name":"Oh,Love&Peace!",
+         "artist":"μ’s",
+         "source":"Love Live! School Idol Project Season 2",
+         "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Oh,Love&Peace!",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "image":"https://static.wikia.nocookie.net/love-live/images/6/6b/Oh%2C_Love%26Peace_Album.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveaozorajumpingheart":{
          "url":"https://youtu.be/C9lUX6lkudw?si=_cUAl719hDP-1mja",
@@ -1249,7 +1411,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Opening, Idol, Aozora Jumping Heart",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine, Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2",
-         "image":"https://static.wikia.nocookie.net/love-live/images/9/9c/Aozora_Jumping_Heart.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/9/9c/Aozora_Jumping_Heart.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveyumekataruyoriyumeutaou":{
          "url":"https://youtu.be/UogE0nwkLwg?si=JDfzoliowcqObx9-",
@@ -1258,7 +1420,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Ending, Idol, Yume Kataru yori Yume Utaou",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/8/87/Yume_Kataru_yori_Yume_Utaou.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/8/87/Yume_Kataru_yori_Yume_Utaou.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemirainobokurawashitteruyo":{
          "url":"https://youtu.be/RdUENJeYUYI?si=Zn_GzIg3zWK2dsUP",
@@ -1267,7 +1429,7 @@
          "source":"Love Live! Sunshine!! Season 2",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Opening, Idol, Mirai no Bokura wa Shitteru yo",
          "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/a/ad/Mirai_no_Bokura_wa_Shitteru_yo.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/a/ad/Mirai_no_Bokura_wa_Shitteru_yo.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveyuukiwadokonikiminomuneni":{
          "url":"https://youtu.be/fLnchHAGi4I?si=w03oszYHEelJfyTr",
@@ -1276,7 +1438,7 @@
          "source":"Love Live! Sunshine!! Season 2",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Ending, Idol, Yuuki wa doko ni? Kimi no Mune ni!",
          "sourceanswers":"Love Live! Sunshine!! Season 2, Love Live! Sunshine Season 2, Love Live Sunshine!! Season 2, Love Live Sunshine Season 2, Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/6/67/Yuuki_wa_doko_ni_Kimi_no_Mune_ni.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/6/67/Yuuki_wa_doko_ni_Kimi_no_Mune_ni.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivekimetayohandinhand":{
          "url":"https://youtu.be/0xHdXHSsJTQ?si=sRoi_A8tua8JUwAE",
@@ -1285,7 +1447,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Kimeta yo Hand in Hand",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/6/69/Kimeta_yo_Hand_in_Hand.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/6/69/Kimeta_yo_Hand_in_Hand.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveyumenotobirariko":{
          "url":"https://youtu.be/o1CM81VsXUU?si=AkwVfZIHM6yjYNL4",
@@ -1303,7 +1465,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Daisuki dattara Daijoubu!",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/6/69/Kimeta_yo_Hand_in_Hand.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/6/69/Kimeta_yo_Hand_in_Hand.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveyumedeyozoraoterashitai":{
          "url":"https://youtu.be/AiJM0yAfVM4?si=9l8ZWnPVnNfPS8ox",
@@ -1312,7 +1474,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Yume de Yozora o Terashitai",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/f/f0/Yume_de_Yozora_o_Terashitai.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/f/f0/Yume_de_Yozora_o_Terashitai.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveselfcontrol":{
          "url":"https://youtu.be/ziNL1FRZ5fY?si=mefWe52EAWTAskeR",
@@ -1321,7 +1483,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Saint Snow, Anime, Insert, Idol, SELF CONTROL!!",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/9/98/Sailing_to_the_Sunshine.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/9/98/Sailing_to_the_Sunshine.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemijukudreamer":{
          "url":"https://youtu.be/dHasNhuseU8?si=FnLyoRzLlGFg4pF8",
@@ -1330,7 +1492,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Mijuku DREAMER",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/f/f0/Yume_de_Yozora_o_Terashitai.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/f/f0/Yume_de_Yozora_o_Terashitai.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveomoiyohitotsuninare":{
           "url":"https://youtu.be/Fz0XoQY3sMw?si=QalGSLdpzSwnbBDX",
@@ -1339,7 +1501,7 @@
           "source":"Love Live! Sunshine!!",
           "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, Omoi yo Hitotsu ni Nare",
           "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-          "image":"https://static.wikia.nocookie.net/love-live/images/0/08/Omoi_yo_Hitotsu_ni_Nare.jpg/revision/latest/scale-to-width-down/800"
+          "image":"https://static.wikia.nocookie.net/love-live/images/0/08/Omoi_yo_Hitotsu_ni_Nare.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemiraiticket":{
          "url":"https://youtu.be/CvQEhuJoH9I?si=eaPlOQ_ri5jDmWZS",
@@ -1348,7 +1510,7 @@
          "source":"Love Live! Sunshine!!",
          "tags":"Love Live, Love Live Sunshine, Aqours, Anime, Insert, Idol, MIRAI TICKET",
          "sourceanswers":"Love Live! Sunshine!!, Love Live! Sunshine, Love Live Sunshine!!, Love Live Sunshine",
-         "image":"https://static.wikia.nocookie.net/love-live/images/0/08/Omoi_yo_Hitotsu_ni_Nare.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/0/08/Omoi_yo_Hitotsu_ni_Nare.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemymaitonight":{
          "url":"https://youtu.be/NEzMVzPgSF4?si=P3fAadFVBCFeStJk",
@@ -1501,7 +1663,7 @@
          "source":"Love Live! Nijigasaki High School Idol Club",
          "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Opening, Idol, Nijiiro Passions!",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
-         "image":"https://static.wikia.nocookie.net/love-live/images/2/2e/Nijiiro_Passions.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/2/2e/Nijiiro_Passions.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveneoskyneomap":{
          "url":"https://youtu.be/m1ilXQbtizc?si=VbJwEe7-lWzWWZeu",
@@ -1510,7 +1672,7 @@
          "source":"Love Live! Nijigasaki High School Idol Club",
          "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Ending, Idol, NEO SKY, NEO MAP!",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
-         "image":"https://static.wikia.nocookie.net/love-live/images/9/94/NEO_SKY%2C_NEO_MAP%21.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/9/94/NEO_SKY%2C_NEO_MAP%21.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivecolorfuldreamscolorfulsmiles":{
          "url":"https://youtu.be/CDPOUZWfwsA?si=Kwn6VYgb20cUaXun",
@@ -1519,7 +1681,7 @@
          "source":"Love Live! Nijigasaki High School Idol Club Season 2",
          "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Opening, Idol, Colorful Dreams! Colorful Smiles!",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club Season 2, Love Live Nijigasaki High School Idol Club Season 2, Love Live! Nijigasaki Season 2, Love Live Nijigasaki Season 2, Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
-         "image":"https://static.wikia.nocookie.net/love-live/images/d/d4/Colorful_Dreams%21_Colorful_Smiles%21.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/d/d4/Colorful_Dreams%21_Colorful_Smiles%21.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveyumegabokuranotaiyousa":{
          "url":"https://youtu.be/5luoQvsVVHE?si=B8daTXoIyz_hHX4y",
@@ -1528,7 +1690,7 @@
          "source":"Love Live! Nijigasaki High School Idol Club Season 2",
          "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Ending, Idol, Yume ga Bokura no Taiyo sa",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club Season 2, Love Live Nijigasaki High School Idol Club Season 2, Love Live! Nijigasaki Season 2, Love Live Nijigasaki Season 2, Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
-         "image":"https://static.wikia.nocookie.net/love-live/images/0/03/Yume_ga_Bokura_no_Taiyou_sa.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/0/03/Yume_ga_Bokura_no_Taiyou_sa.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivestarttruedreams":{
          "url":"https://youtu.be/35WteJ60cps?si=teQX8-0IxrpeqkbD",
@@ -1537,7 +1699,7 @@
          "source":"Love Live! Superstar!!",
          "tags":"Love Live, Love Live Superstar, Liella!, Anime, Opening, Idol, START!! True dreams",
          "sourceanswers":"Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
-         "image":"https://static.wikia.nocookie.net/love-live/images/2/2d/START%21%21_True_dreams.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/2/2d/START%21%21_True_dreams.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemiraiwakazenoyouni":{
          "url":"https://youtu.be/ZfjpsHnU9DM?si=qVhhzNHP3FzRR0Vl",
@@ -1546,7 +1708,7 @@
          "source":"Love Live! Superstar!!",
          "tags":"Love Live, Love Live Superstar, Liella!, Anime, Ending, Idol, Mirai wa Kaze no You ni",
          "sourceanswers":"Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
-         "image":"https://static.wikia.nocookie.net/love-live/images/9/98/Mirai_wa_Kaze_no_You_ni.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/9/98/Mirai_wa_Kaze_no_You_ni.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivewewill":{
          "url":"https://youtu.be/NBBt0pqYqZU?si=8XP-7DtQrYl3wI8c",
@@ -1555,7 +1717,7 @@
          "source":"Love Live! Superstar!! Season 2",
          "tags":"Love Live, Love Live Superstar, Liella!, Anime, Opening, Idol, WE WILL!!",
          "sourceanswers":"Love Live! Superstar!! Season 2, Love Live! Superstar Season 2, Love Live Superstar!! Season 2, Love Live Superstar Season 2, Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
-         "image":"https://static.wikia.nocookie.net/love-live/images/a/a4/WE_WILL%21%21.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/a/a4/WE_WILL%21%21.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivoikakeruyumenosakide":{
          "url":"https://youtu.be/AKBV8afIcmE?si=3vZEMKIHUMBcuzOi",
@@ -1564,7 +1726,7 @@
          "source":"Love Live! Superstar!! Season 2",
          "tags":"Love Live, Love Live Superstar, Liella!, Anime, Ending, Idol, Oikakeru Yume no Saki de",
          "sourceanswers":"Love Live! Superstar!! Season 2, Love Live! Superstar Season 2, Love Live Superstar!! Season 2, Love Live Superstar Season 2, Love Live! Superstar!!, Love Live! Superstar, Love Live Superstar!!, Love Live Superstar",
-         "image":"https://static.wikia.nocookie.net/love-live/images/a/a4/Oikakeru_Yume_no_Saki_de.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/a/a4/Oikakeru_Yume_no_Saki_de.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivemiraiyohouhallelujah":{
          "url":"https://youtu.be/V6ytTXw6838?si=nwHO60HmEysiNJNr",
@@ -1645,7 +1807,7 @@
          "source":"Nijiyon Animation",
          "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijiyon Animation, Nijiyon, Anime, Ending, Idol, Wachu Gonna Do",
          "sourceanswers":"Nijiyon Animation, Nijiyon",
-         "image":"https://static.wikia.nocookie.net/love-live/images/4/41/Wachu_Gonna_Do.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/4/41/Wachu_Gonna_Do.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivegenjitsumysterium":{
          "url":"https://youtu.be/pjgrQQZVeU4?si=J5scfhE3D3PVXDhx",
@@ -1654,7 +1816,7 @@
          "source":"Yohane the Parhelion -SUNSHINE in the MIRROR-",
          "tags":"Love Live, Yohane the Parhelion SUNSHINE in the MIRROR, Aqours, Yohane, Anime, Opening, Idol, Fantasy, Genjitsu Mysterium",
          "sourceanswers":"Yohane the Parhelion -SUNSHINE in the MIRROR-, Yohane the Parhelion SUNSHINE in the MIRROR, Yohane the Parhelion, SUNSHINE in the MIRROR",
-         "image":"https://static.wikia.nocookie.net/love-live/images/0/07/Aqours_Genjitsu_Mysterium.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/0/07/Aqours_Genjitsu_Mysterium.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivekiminotamebokunotame":{
          "url":"https://youtu.be/D-i5ExlT-S8?si=jhC8lFnIocejVJ5f",
@@ -1663,7 +1825,7 @@
          "source":"Yohane the Parhelion -SUNSHINE in the MIRROR-",
          "tags":"Love Live, Yohane the Parhelion SUNSHINE in the MIRROR, Aqours, Yohane, Anime, Ending, Idol, Fantasy, Kimi no Tame Boku no Tame",
          "sourceanswers":"Yohane the Parhelion -SUNSHINE in the MIRROR-, Yohane the Parhelion SUNSHINE in the MIRROR, Yohane the Parhelion, SUNSHINE in the MIRROR",
-         "image":"https://static.wikia.nocookie.net/love-live/images/2/2c/Aqours_Kimi_no_Tame_Boku_no_Tame.jpg/revision/latest/scale-to-width-down/800"
+         "image":"https://static.wikia.nocookie.net/love-live/images/2/2c/Aqours_Kimi_no_Tame_Boku_no_Tame.jpg/revision/latest/scale-to-width-down/500"
       },
       "bleachclavarlaespada":{
          "url":"https://youtu.be/Z9Onb_z0XPI?si=K39W8n-5Od0JPI1z",
@@ -2557,10 +2719,10 @@
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/52/Hoshi_no_DIALOGUE_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
      },
      "revuestarlightflymetothestar":{
-         "url":"https://youtu.be/xt4dgc3gs1U?si=rDEX70sOpAbTjU-E",
+         "url":"https://youtu.be/ZF3abGQDkn0?si=hae36hmHkpX6pAr6",
          "name":"Fly Me to the Star",
          "artist":"Starlight Kuku Gumi",
-         "source":"Shōjo☆Kageki Revue Starlight (Ending 1)",
+         "source":"Shōjo☆Kageki Revue Starlight (Ending 2)",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Starlight Kuku Gumi, Anime, Ending, Music, Drama, Fly Me to the Star",
          "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/1/1f/Fly_Me_to_the_Star_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
@@ -2569,7 +2731,7 @@
          "url":"https://youtu.be/SiHByyE8hTY?si=r14gIUXMRFqin0JL",
          "name":"Fly Me to the Star (Instrumental)",
          "artist":"Starlight Kuku Gumi",
-         "source":"Shōjo☆Kageki Revue Starlight (Ending 6)",
+         "source":"Shōjo☆Kageki Revue Starlight (Ending 5)",
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Starlight Kuku Gumi, Anime, Ending, Music, Drama, Fly Me to the Star (Instrumental)",
          "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/1/1f/Fly_Me_to_the_Star_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
@@ -2672,6 +2834,15 @@
          "tags":"Shōjo☆Kageki Revue Starlight, Revue Starlight, Aijo Karen (CV: Momoyo Koyama), Kagura Hikari (CV: Suzuko Mimori), Anime, Insert, Music, Drama, Starlight",
          "sourceanswers":"Shōjo☆Kageki Revue Starlight, Shoujo☆Kageki Revue Starlight, Shōjo Kageki Revue Starlight, Shoujo Kageki Revue Starlight, Revue Starlight",
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/b/b4/La_Revue_de_Soirée_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "revuestarlightbutaishoujoutaisou":{
+         "url":"https://youtu.be/Y-KYgVwTFtw?si=u8fsrqAgxPsGCoFa",
+         "name":"Butai Shōjo Taisō",
+         "artist":"Starlight Kuku Gumi",
+         "source":"Shōjo☆Conte All Starlight",
+         "tags":"Shōjo☆Conte All Starlight, Shoujo Conte All Starlight, Shoujo Conto All Starlight, Shōjo☆Kageki Revue Starlight, Revue Starlight, Starlight Kuku Gumi, Anime, Ending, Music, Comedy, Short, Butai Shōjo Taisō, Butai Shoujo Taisou",
+         "sourceanswers":"Shōjo☆Conte All Starlight, Shoujo☆Conte All Starlight, Shoujo Conte All Starlight, Shōjo☆Conto All Starlight, Shoujo☆Conto All Starlight, Shoujo Conto All Starlight,",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109153-VBCrQGech8ol.jpg"
       },
       "revuestarlightrondothestarknowsanother":{
          "url":"https://youtu.be/d0xRCbAjeog?si=yfHGCfQ6J7u6-RVU",
