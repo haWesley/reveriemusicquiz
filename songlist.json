@@ -1338,7 +1338,7 @@
          "artist":"A-RISE",
          "source":"Love Live! School Idol Project Season 2",
          "tags":"Love Live, Love Live School Idol Project, A-RISE, Anime, Insert, Idol, Shocking Party",
-         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
+         "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project, Love Live! The School Idol Movie, Love Live The School Idol Movie",
          "image":"https://static.wikia.nocookie.net/love-live/images/b/b0/Shocking_Party.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveyumenotobira":{
@@ -1412,6 +1412,69 @@
          "tags":"Love Live, Love Live School Idol Project, μ’s, U's, Anime, Insert, Idol, Oh,Love&Peace!",
          "sourceanswers":"Love Live! School Idol Project Season 2, Love Live School Idol Project Season 2, Love Live School Idol Project, Love Live! School Idol Project",
          "image":"https://static.wikia.nocookie.net/love-live/images/6/6b/Oh%2C_Love%26Peace_Album.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivehellohoshiokazoete":{
+         "url":"https://youtu.be/xKzzAV63r3w?si=LWAgF7kgMYRMm2Mi",
+         "name":"Hello, Hoshi o Kazoete",
+         "artist":"Hanayo Koizumi (CV: Yurika Kubo), Rin Hoshizora (CV: Riho Iida), Maki Nishikino (CV: Pile)",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, Hanayo Koizumi (CV: Yurika Kubo), Rin Hoshizora (CV: Riho Iida), Maki Nishikino (CV: Pile), μ’s, U's, Anime, Movie, Insert, Idol, Hello Hoshi o Kazoete",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/4/48/Angelic_Angel_%26_Hoshi_o_Kazoete_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveastimegoesby":{
+         "url":"https://youtu.be/lysy00xlgZc?si=TcUg17P8DdeS6Sa6",
+         "name":"As Time Goes By",
+         "artist":"Unnamed Female Singer (CV: Minami Takayama)",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, Unnamed Female Singer (CV: Minami Takayama), Anime, Movie, Insert, Idol, As Time Goes By",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/11/Notes_of_School_Idol_Days_~Curtain_Call~.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveangelicangel":{
+         "url":"https://youtu.be/_9FhBDS4Kdw?si=yzLiJ2PvRS4eO-OV",
+         "name":"Angelic Angel",
+         "artist":"μ’s",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, μ’s, U's, Anime, Movie, Insert, Idol, Angelic Angel",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/4/48/Angelic_Angel_%26_Hoshi_o_Kazoete_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveheartbeat":{
+         "url":"https://youtu.be/KJEnC-oqiTg?si=J8ljmVaPsXHEJfLj",
+         "name":"?←HEARTBEAT",
+         "artist":"Nico Yazawa (CV: Sora Tokui), Eli Ayase (CV: Yoshino Nanjou), Nozomi Tojo (CV: Kusuda Aina)",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, Nico Yazawa (CV: Sora Tokui), Eli Ayase (CV: Yoshino Nanjou), Nozomi Tojo (CV: Kusuda Aina), μ’s, U's, Anime, Movie, Insert, Idol, ?←HEARTBEAT",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/3/35/SUNNY_DAY_SONG_%26_？←HEARTBEAT_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivefuturestyle":{
+         "url":"https://youtu.be/LdwEicog-3g?si=f00tdYxCaac9vZCe",
+         "name":"Future style",
+         "artist":"Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori)",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, Honoka Kousaka (CV: Emi Nitta), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori), μ’s, U's, Anime, Movie, Insert, Idol, Future style",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/7e/Bokutachi_wa_Hitotsu_no_Hikari_%26_Future_style.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivesunnydaysong":{
+         "url":"https://youtu.be/5pG3aTCgnmA?si=UxwqjJ7FQcEjl2lC",
+         "name":"SUNNY DAY SONG",
+         "artist":"μ’s",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, μ’s, U's, Anime, Movie, Insert, Idol, SUNNY DAY SONG",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/3/35/SUNNY_DAY_SONG_%26_？←HEARTBEAT_Cover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivebokutachiwahitotsunohikari":{
+         "url":"https://youtu.be/RcYtUeu4EqQ?si=MCN95YPTesI-VJ6G",
+         "name":"Bokutachi wa Hitotsu no Hikari",
+         "artist":"μ’s",
+         "source":"Love Live! The School Idol Movie",
+         "tags":"Love Live, Love Live The School Idol Movie, Love Live School Idol Project, μ’s, U's, Anime, Movie, Ending, Insert, Idol, Bokutachi wa Hitotsu no Hikari",
+         "sourceanswers":"Love Live! The School Idol Movie, Love Live The School Idol Movie",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/7e/Bokutachi_wa_Hitotsu_no_Hikari_%26_Future_style.jpg/revision/latest/scale-to-width-down/500"
       },
       "loveliveaozorajumpingheart":{
          "url":"https://youtu.be/C9lUX6lkudw?si=_cUAl719hDP-1mja",
@@ -1670,7 +1733,7 @@
          "name":"Nijiiro Passions!",
          "artist":"Nijigasaki High School Idol Club",
          "source":"Love Live! Nijigasaki High School Idol Club",
-         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Opening, Idol, Nijiiro Passions!",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijigaku, Anime, Opening, Idol, Nijiiro Passions!",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
          "image":"https://static.wikia.nocookie.net/love-live/images/2/2e/Nijiiro_Passions.jpg/revision/latest/scale-to-width-down/500"
       },
@@ -1679,7 +1742,7 @@
          "name":"NEO SKY, NEO MAP!",
          "artist":"Nijigasaki High School Idol Club",
          "source":"Love Live! Nijigasaki High School Idol Club",
-         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Ending, Idol, NEO SKY, NEO MAP!",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijigaku, Anime, Ending, Idol, NEO SKY NEO MAP!",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
          "image":"https://static.wikia.nocookie.net/love-live/images/9/94/NEO_SKY%2C_NEO_MAP%21.jpg/revision/latest/scale-to-width-down/500"
       },
@@ -1688,7 +1751,7 @@
          "name":"Colorful Dreams! Colorful Smiles!",
          "artist":"Nijigasaki High School Idol Club",
          "source":"Love Live! Nijigasaki High School Idol Club Season 2",
-         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Opening, Idol, Colorful Dreams! Colorful Smiles!",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijigaku, Anime, Opening, Idol, Colorful Dreams! Colorful Smiles!",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club Season 2, Love Live Nijigasaki High School Idol Club Season 2, Love Live! Nijigasaki Season 2, Love Live Nijigasaki Season 2, Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
          "image":"https://static.wikia.nocookie.net/love-live/images/d/d4/Colorful_Dreams%21_Colorful_Smiles%21.jpg/revision/latest/scale-to-width-down/500"
       },
@@ -1697,9 +1760,117 @@
          "name":"Yume ga Bokura no Taiyou sa",
          "artist":"Nijigasaki High School Idol Club",
          "source":"Love Live! Nijigasaki High School Idol Club Season 2",
-         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Anime, Ending, Idol, Yume ga Bokura no Taiyo sa",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijigaku, Anime, Ending, Idol, Yume ga Bokura no Taiyo sa",
          "sourceanswers":"Love Live! Nijigasaki High School Idol Club Season 2, Love Live Nijigasaki High School Idol Club Season 2, Love Live! Nijigasaki Season 2, Love Live Nijigasaki Season 2, Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
          "image":"https://static.wikia.nocookie.net/love-live/images/0/03/Yume_ga_Bokura_no_Taiyou_sa.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivechase":{
+         "url":"https://youtu.be/5R1l0xrtVOc?si=fBt0foAnkJrP9fp-",
+         "name":"CHASE!",
+         "artist":"Setsuna Yuki (CV: Tomori Kusunoki)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Setsuna Yuki (CV: Tomori Kusunoki), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, CHASE!",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/1/1e/TOKIMEKIRunners.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivedreamwithyou":{
+         "url":"https://youtu.be/0cGBTbjvwuo?si=F9Me3IHkfGPA_vHw",
+         "name":"Dream with You",
+         "artist":"Ayumu Uehara (CV: Aguri Onishi)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Ayumu Uehara (CV: Aguri Onishi), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Dream with You",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/c/c7/Dream_with_You.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivepoppinup":{
+         "url":"https://youtu.be/vGtXstAHlXU?si=i89Dt3upK3p2ACTe",
+         "name":"Poppin' Up!",
+         "artist":"Kasumi Nakasu (CV: Mayu Sagara)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Kasumi Nakasu (CV: Mayu Sagara), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Poppin' Up!",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/3/34/Poppin%27_Up%21.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivedive":{
+         "url":"https://youtu.be/krzru9NkedE?si=4T0wOsDqtYVWUpwH",
+         "name":"DIVE!",
+         "artist":"Setsuna Yuki (CV: Tomori Kusunoki)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Setsuna Yuki (CV: Tomori Kusunoki), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, DIVE!",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/0/04/DIVE%21.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivesaikouheart":{
+         "url":"https://youtu.be/gYgjBEjjIvI?si=Kfd2Rm7nRtH-l_Cw",
+         "name":"Saikou Heart",
+         "artist":"Ai Miyashita (CV: Natsumi Murakami)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Ai Miyashita (CV: Natsumi Murakami), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Saikou Heart",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/6/64/Saikou_Heart.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivelabellapatria":{
+         "url":"https://youtu.be/i-NzrXpwJoA?si=cUzAsFpO-MHzIiPf",
+         "name":"La Bella Patria",
+         "artist":"Emma Verde (CV: Maria Sashide)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Emma Verde (CV: Maria Sashide), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, La Bella Patria",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/b/ba/La_Bella_Patria.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivetsunagaruconnect":{
+         "url":"https://youtu.be/Kzr_xuqqh-M?si=9KOe3inxykMO-YrS",
+         "name":"Tsunagaru Connect",
+         "artist":"Rina Tennoji (CV: Chiemi Tanaka)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Rina Tennoji (CV: Chiemi Tanaka), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Tsunagaru Connect",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/5/5b/Tsunagaru_Connect.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivebutterfly":{
+         "url":"https://youtu.be/aoRBp5C_ZyI?si=4FJNxguMUtnxxN8J",
+         "name":"Butterfly",
+         "artist":"Kanata Konoe (CV: Akari Kitou)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Kanata Konoe (CV: Akari Kitou), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Butterfly",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/77/Butterfly.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivesolituderain":{
+         "url":"https://youtu.be/8yyMnAK2Ki4?si=BqOrqsBF9nZ4W5xB",
+         "name":"Solitude Rain",
+         "artist":"Shizuku Osaka (CV: Kaori Maeda)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Shizuku Osaka (CV: Kaori Maeda), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Solitude Rain",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/3/3d/Solitude_Rain.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "lovelivevividworld":{
+         "url":"https://youtu.be/FFyWNOU82Vw?si=BATHJI-Zdc-CaS2V",
+         "name":"VIVID WORLD",
+         "artist":"Karin Asaka (CV: Miyu Kubota)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Karin Asaka (CV: Miyu Kubota), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, VIVID WORLD",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/c/cb/VIVID_WORLD.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveawakeningpromise":{
+         "url":"https://youtu.be/YSYg3LKAMgA?si=-QuiGJpXS2Pmgk5s",
+         "name":"Awakening Promise",
+         "artist":"Ayumu Uehara (CV: Aguri Onishi)",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Ayumu Uehara (CV: Aguri Onishi), Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Awakening Promise",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/2/2a/Awakening_Promise.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "loveliveyumegakokokarahajimaruyo":{
+         "url":"https://youtu.be/02tMRFTzMlw?si=gWzQg1hXIr0NejJY",
+         "name":"Yume ga Koko Kara Hajimaru yo",
+         "artist":"Nijigasaki High School Idol Club",
+         "source":"Love Live! Nijigasaki High School Idol Club",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijigaku, Anime, Insert, Idol, Yume ga Koko Kara Hajimaru yo",
+         "sourceanswers":"Love Live! Nijigasaki High School Idol Club, Love Live Nijigasaki High School Idol Club, Love Live! Nijigasaki, Love Live Nijigasaki",
+         "image":"https://static.wikia.nocookie.net/love-live/images/7/77/Yume_Ga_Koko_Kara_Hajimaru_yo.jpg/revision/latest/scale-to-width-down/500"
       },
       "lovelivestarttruedreams":{
          "url":"https://youtu.be/35WteJ60cps?si=teQX8-0IxrpeqkbD",
@@ -1895,7 +2066,7 @@
          "name":"Wachu Gonna Do",
          "artist":"Nijigasaki High School Idol Club",
          "source":"Nijiyon Animation",
-         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijiyon Animation, Nijiyon, Anime, Ending, Idol, Wachu Gonna Do",
+         "tags":"Love Live, Love Live Nijigasaki High School Idol Club, Love Live Nijigasaki, Nijigasaki High School Idol Club, Nijigaku, Nijiyon Animation, Nijiyon, Anime, Ending, Idol, Wachu Gonna Do",
          "sourceanswers":"Nijiyon Animation, Nijiyon",
          "image":"https://static.wikia.nocookie.net/love-live/images/4/41/Wachu_Gonna_Do.jpg/revision/latest/scale-to-width-down/500"
       },
