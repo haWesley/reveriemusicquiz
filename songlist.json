@@ -3313,7 +3313,7 @@
          "image":"https://static.wikia.nocookie.net/revuestarlight/images/5/52/Hoshi_no_DIALOGUE_Cover_Art.jpg/revision/latest/scale-to-width-down/500"
      },
      "revuestarlightflymetothestar":{
-         "url":"https://youtu.be/ZF3abGQDkn0?si=hae36hmHkpX6pAr6",
+         "url":"https://youtu.be/ZF3abGQDkn0?si=tcYjfFVvNlLbBGc7",
          "name":"Fly Me to the Star",
          "artist":"Starlight Kuku Gumi",
          "source":"Shōjo☆Kageki Revue Starlight (Ending 2)",
@@ -5139,13 +5139,148 @@
          "sourceanswers":"Final Fantasy 14: Endwalker, Final Fantasy 14 Endwalker, Final Fantasy 14, Final Fantasy XIV",
          "image":"https://upload.wikimedia.org/wikipedia/en/4/47/Final_Fantasy_XIV_Endwalker_box_cover.png"
       },
+      "umamusumemakedebut":{
+         "url":"https://youtu.be/Yeu9HQUt6TE?si=tgFRIlOH9RyDpxoj",
+         "name":"Make Debut!",
+         "artist":"Team Spica",
+         "source":"Uma Musume: Pretty Derby (Opening 1)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Team Spica, Anime, Opening, Sports, Idol, Cygames, Make Debut!",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/5/58/Make_debut.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumegrowupshine":{
+         "url":"https://youtu.be/Jobw2ML3F_A?si=IVmJhPQuU5edHpcg",
+         "name":"Grow Up Shine!",
+         "artist":"Team Spica",
+         "source":"Uma Musume: Pretty Derby (Ending 1)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Team Spica, Anime, Ending, Sports, Idol, Cygames, Grow Up Shine!",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/f/fc/Grow_Up_Shine.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumearigatoukamisama":{
+         "url":"https://youtu.be/xgh6iSTiTeQ?si=kvEPxkS7NvXje4Ld",
+         "name":"Arigatou, Kamisama",
+         "artist":"Special Week (CV: Azumi Waki)",
+         "source":"Uma Musume: Pretty Derby (Ending 2)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Special Week (CV: Azumi Waki), Anime, Ending, Sports, Idol, Cygames, Arigatou Kamisama",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/2/21/Animation_Derby_04.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumesilentstar":{
+         "url":"https://youtu.be/phdIVHuuXEo?si=0R3hMIfuSzCv4K8C",
+         "name":"Silent Star",
+         "artist":"Silence Suzuka (CV: Marika Kohno)",
+         "source":"Uma Musume: Pretty Derby (Ending 3)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Silence Suzuka (CV: Marika Kohno), Anime, Ending, Sports, Idol, Cygames, Silent Star",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/2/21/Animation_Derby_04.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumefindmyonlyway":{
+         "url":"https://youtu.be/9cYJnXurobU?si=c4-1k8kNTrPSfOOf",
+         "name":"Find My Only Way",
+         "artist":"Team Spica",
+         "source":"Uma Musume: Pretty Derby (Ending 4)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Team Spica, Anime, Ending, Sports, Idol, Cygames, Grow Up Shine!",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/1/13/A3f26f3c5e2c1250c710bcebcfce72b7.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumeumapyoidensetsu":{
+         "url":"https://youtu.be/CpKi1BKLNY0?si=ysi4rqoWZkeD1lfl",
+         "name":"Umapyoi Densetsu",
+         "artist":"Akihiro Honda",
+         "source":"Uma Musume: Pretty Derby (Ending 5)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Akihiro Honda, Anime, Ending, Sports, Idol, Cygames, Umapyoi Densetsu",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98514-5i7eg5jrGI4X.jpg"
+      },
+      "umamusumenanaironokeshiki":{
+         "url":"https://youtu.be/LjsrwdRvGtg?si=JlzY_K6JtRBnGrpM",
+         "name":"Nanairo no Keshiki",
+         "artist":"Silence Suzuka (CV: Marika Kohno)",
+         "source":"Uma Musume: Pretty Derby",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Silence Suzuka (CV: Marika Kohno), Anime, Insert, Sports, Idol, Cygames, Nanairo no Keshiki",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/8/86/Nanairo_no_Keshiki_Jacket.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumeendlessdream":{
+         "url":"https://youtu.be/XxLWjs47Sq8?si=p8ZgMAsqflo0DwEa",
+         "name":"ENDLESS DREAM!!",
+         "artist":"Special Week (CV: Azumi Waki), Silence Suzuka (CV: Marika Kohno), Tokai Teio (CV: Machico)",
+         "source":"Uma Musume: Pretty Derby",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Special Week (CV: Azumi Waki), Silence Suzuka (CV: Marika Kohno), Tokai Teio (CV: Machico), Anime, Insert, Sports, Idol, Cygames, ENDLESS DREAM!!",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/9/9a/Endless_dream_normal.png/revision/latest/scale-to-width-down/500/"
+      },
+      "umamusumekoiwaderby":{
+         "url":"https://youtu.be/KXHscPDFsvs?si=tagS5EHqGtzciQ6f",
+         "name":"Koi wa Derby☆",
+         "artist":"Tokai Teio (CV: Machico)",
+         "source":"Uma Musume: Pretty Derby",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Tokai Teio (CV: Machico), Anime, Insert, Sports, Idol, Cygames, Koi wa Derby☆, Koi wa Derby",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/1/1d/Starting_gate_01.jpg/revision/latest/scale-to-width-down/500/"
+      },
+      "umamusumeseven":{
+         "url":"https://youtu.be/iESeEt9fxZg?si=nXb1HLF4Le_IFHAk",
+         "name":"SEVEN",
+         "artist":"Symboli Rudolf (CV: Azusa Tadokoro)",
+         "source":"Uma Musume: Pretty Derby",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Symboli Rudolf (CV: Azusa Tadokoro), Anime, Insert, Sports, Idol, Cygames, SEVEN",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/6/64/STARTING_GATE_06.jpg/revision/latest/scale-to-width-down/500/"
+      },
+      "umamusumespecialrecord":{
+         "url":"https://youtu.be/Uqxf7tgrchs?si=0YKfeski3TRMxxwf",
+         "name":"Special Record!",
+         "artist":"Shun Aratame",
+         "source":"Uma Musume: Pretty Derby",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Shun Aratame, Anime, Insert, Sports, Idol, Cygames, Special Record!",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/1/13/A3f26f3c5e2c1250c710bcebcfce72b7.png/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumeyumewokakeru":{
+         "url":"https://youtu.be/YYEaRNC3xSU?si=BjNLRn8xCmK88Adv",
+         "name":"Yume wo Kakeru!",
+         "artist":"Team Spica",
+         "source":"Uma Musume: Pretty Derby Season 2 (Opening 1)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Team Spica, Anime, Opening, Sports, Idol, Cygames, Yume wo Kakeru!",
+         "sourceanswers":"Uma Musume: Pretty Derby Season 2, Uma Musume Pretty Derby Season 2, Uma Musume: Season 2, Uma Musume Season 2, Umamusume: Pretty Derby Season 2, Umamusume Pretty Derby Season 2, Umamusume: Season 2, Umamusume Season 2, Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/1/1d/Yumewokakerucover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumewinningthesoul":{
+         "url":"https://youtu.be/3GYiio-0XNU?si=MpbhrKmhtyGRhC02",
+         "name":"Winning the soul",
+         "artist":"Tokai Teio (CV: Machico)",
+         "source":"Uma Musume: Pretty Derby Season 2",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Tokai Teio (CV: Machico), Anime, Insert, Sports, Idol, Cygames, Winning the soul",
+         "sourceanswers":"Uma Musume: Pretty Derby Season 2, Uma Musume Pretty Derby Season 2, Uma Musume: Season 2, Uma Musume Season 2, Umamusume: Pretty Derby Season 2, Umamusume Pretty Derby Season 2, Umamusume: Season 2, Umamusume Season 2, Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://static.wikia.nocookie.net/umamusume/images/1/1d/Yumewokakerucover.jpg/revision/latest/scale-to-width-down/500"
+      },
+      "umamusumesoshiteminnano":{
+         "url":"https://youtu.be/Z5F3z7mO0g4?si=PWIhb5IQXUY6mnIS",
+         "name":"Soshite Minna no",
+         "artist":"Kitasan Black (CV: Hinaki Yano), Satono Diamond (CV: Hina Tachibana), Satono Crown (CV: Sayumi Suzushiro), Cheval Grand (CV: Yuko Natsuyoshi), Sounds of Earth (CV: MAKIKO), Duramente (CV: Akina)",
+         "source":"Uma Musume: Pretty Derby Season 3 (Opening 1)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume, Kitasan Black (CV: Hinaki Yano), Satono Diamond (CV: Hina Tachibana), Satono Crown (CV: Sayumi Suzushiro), Cheval Grand (CV: Yuko Natsuyoshi), Sounds of Earth (CV: MAKIKO), Duramente (CV: Akina), Anime, Opening, Sports, Idol, Cygames, Soshite Minna no",
+         "sourceanswers":"Uma Musume: Pretty Derby Season 3, Uma Musume Pretty Derby Season 3, Uma Musume: Season 3, Uma Musume Season 3, Umamusume: Pretty Derby Season 3, Umamusume Pretty Derby Season 3, Umamusume: Season 3, Umamusume Season 3, Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156632-QnKMOaso3n2y.jpg"
+      },
+      "umamusumegloriousmoment":{
+         "url":"https://youtu.be/SPorIsS2aXo?si=k_zjtBUljzXkcKZx",
+         "name":"Glorious Moment!",
+         "artist":"Narita Top Road (CV: Kanna Nakamura), Admire Vega (CV: Hitomi Sasaki), T.M. Opera O (CV: Sora Tokui)",
+         "source":"Uma Musume: Pretty Derby Road to the Top (Opening 1)",
+         "tags":"Uma Musume: Pretty Derby, Uma Musume: Pretty Derby Road to the Top, Uma Musume, Narita Top Road (CV: Kanna Nakamura), Admire Vega (CV: Hitomi Sasaki), T.M. Opera O (CV: Sora Tokui), Anime, Movie, Opening, Sports, Idol, Cygames, Glorious Moment!",
+         "sourceanswers":"Uma Musume: Pretty Derby Road to the Top, Uma Musume Pretty Derby Road to the Top, Umamusume: Pretty Derby Road to the Top, Umamusume Pretty Derby Road to the Top, Uma Musume Road to the Top, Umamusume Road to the Top",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148370-db0LjJfaOCg9.jpg"
+      },
       "umamusumegirlslegendu":{
          "url":"https://youtu.be/uacbJIL1C1c?si=lHrE9ubY8iL8p6X-",
          "name":"GIRLS' LEGEND U",
          "artist":"Akihiro Honda",
          "source":"Uma Musume: Pretty Derby",
          "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Opening, Akihiro Honda, Gacha, Sports, Idol, Cygames, U.M.A. NEW WORLD!!",
-         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/f/f6/GIRLS_LEGEND_U_Jacket.png/revision/latest/scale-to-width-down/500"
       },
       "umamusumeumanewworld":{
@@ -5154,7 +5289,7 @@
          "artist":"Kan Irei",
          "source":"Uma Musume: Pretty Derby",
          "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Opening, Kan Irei, Gacha, Sports, Idol, Cygames, U.M.A. NEW WORLD!!",
-         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/8/88/Uma_Musume_Pretty_Derby_Title_Screen.jpg/revision/latest/scale-to-width-down/500"
       },
       "umamusumemsvictoria":{
@@ -5163,7 +5298,7 @@
          "artist":"Shota Horie",
          "source":"Uma Musume: Pretty Derby",
          "tags":"Uma Musume: Pretty Derby, Uma Musume, Video Game, Shota Horie, Gacha, Sports, Idol, Cygames, Ms. Victoria",
-         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Uma Musume",
+         "sourceanswers":"Uma Musume: Pretty Derby, Uma Musume Pretty Derby, Umamusume: Pretty Derby, Umamusume Pretty Derby, Uma Musume, Umamusume",
          "image":"https://static.wikia.nocookie.net/umamusume/images/5/56/Ms_VICTORIA_Jacket.png/revision/latest/scale-to-width-down/500"
       },
       "foodwarsrisingrainbow":{
