@@ -6038,6 +6038,96 @@
          "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Robotnik",
          "sourceanswers":"Sonic the Hedgehog",
          "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic2emeraldhill":{
+         "url":"https://youtu.be/kiT9yLezwbE?si=nDBKyS8BM1Tm8X8u",
+         "name":"Emerald Hill",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Emerald Hill",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2chemicalplant":{
+         "url":"https://youtu.be/kiT9yLezwbE?si=VQ0gsZmMwkyU77Vj",
+         "name":"Chemical Plant",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Chemical Plant",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2aquaticruin":{
+         "url":"https://youtu.be/BOK8_P1p3oU?si=mAmDwlRxJU8xHkal",
+         "name":"Aquatic Ruin",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Aquatic Ruin",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2casinonight":{
+         "url":"https://youtu.be/JwmbS5fO810?si=8tsudnRNWhv80JqB",
+         "name":"Casino Night",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Casino Night",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2hilltop":{
+         "url":"https://youtu.be/JwmbS5fO810?si=k9HI2WKRTQXJBWge",
+         "name":"Hill Top",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Hill Top",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2mysticcave":{
+         "url":"https://youtu.be/A6eXA4boRcY?si=sbIHpj_g32631lvj",
+         "name":"Mystic Cave",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Mystic Cave",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2oilocean":{
+         "url":"https://youtu.be/_M1d_nM39lc?si=qlq-QRxNpOVed4cU",
+         "name":"Oil Ocean",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Oil Ocean",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2metropolis":{
+         "url":"https://youtu.be/UUw6Vqdz2vo?si=KL9n5LeQbA8v8vle",
+         "name":"Metropolis",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Metropolis",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2specialstage":{
+         "url":"https://youtu.be/gDMeC34-7yQ?si=rcfs-UVna8MHe0dv",
+         "name":"Special Stage",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Special Stage",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
+      },
+      "sonic2finalboss":{
+         "url":"https://youtu.be/WkAdxBlIshw?si=xweZJ5aY8TAC148d",
+         "name":"Final Boss",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog 2",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog 2, Masato Nakamura, Final Boss",
+         "sourceanswers":"Sonic the Hedgehog 2",
+         "image":"https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg"
       }
    }
 }
