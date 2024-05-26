@@ -5966,6 +5966,15 @@
          "tags":"Video Game, Mario, Nintendo, Platformer, N64, Super Mario 64, Koji Kondo, Staff Roll",
          "sourceanswers":"Super Mario 64",
          "image":"https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg"
+      },
+      "sonic1greenhill":{
+         "url":"https://youtu.be/G-i8HYi1QH0?si=ADE9yJejXlvN4nZS",
+         "name":"Green Hill Zone",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Green Hill Zone",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
       }
    }
 }
