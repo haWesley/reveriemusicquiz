@@ -5975,6 +5975,69 @@
          "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Green Hill Zone",
          "sourceanswers":"Sonic the Hedgehog",
          "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1marble":{
+         "url":"https://youtu.be/z1aXXX_oqP8?si=rQv1ANt4H7H68-Bg",
+         "name":"Marble Zone",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Marble Zone",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1springyard":{
+         "url":"https://youtu.be/Owc5NNYSLwY?si=OVV99ObX0JKhjIh7",
+         "name":"Spring Yard Zone",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Spring Yard Zone",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1labyrinth":{
+         "url":"https://youtu.be/JlY8Di_Pb4U?si=mM1-3Hu1WB0d1udX",
+         "name":"Labyrinth Zone",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Labyrinth Zone",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1starlight":{
+         "url":"https://youtu.be/NVoNyufMUpo?si=KB5tQEipbh5UE7wo",
+         "name":"Starlight Zone",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Starlight Zone",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1scrapbrain":{
+         "url":"https://youtu.be/ONQKGcuHsg0?si=wEuYgpH2KwYz6GwC",
+         "name":"Scrap Brain Zone",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Scrap Brain Zone",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1special":{
+         "url":"https://youtu.be/OK-elTBrtio?si=kMv96vEp8WqzVGeQ",
+         "name":"Special Stage",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Special Stage",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
+      },
+      "sonic1robotnik":{
+         "url":"https://youtu.be/S5NW3HQ0SRI?si=WenhAm2fPRi94WX_",
+         "name":"Robotnik",
+         "artist":"Masato Nakamura",
+         "source":"Sonic the Hedgehog",
+         "tags":"Video Game, Sonic, Sega, Platformer, Genesis, Sonic the Hedgehog, Masato Nakamura, Robotnik",
+         "sourceanswers":"Sonic the Hedgehog",
+         "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Sonic_the_Hedgehog_1_Genesis_box_art.jpg"
       }
    }
 }
