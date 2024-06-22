@@ -4572,6 +4572,24 @@
          "sourceanswers":"Girls Band Cry",
          "image":"https://linkstorage.linkfire.com/medialinks/images/78d75aae-3f08-4b49-8181-bb42168c7750/artwork-440x440.jpg"
       },
+      "girlsbandcrymindplayingfractal":{
+         "url":"https://youtu.be/H_zV9w4rWm8?si=jFTdRQ5XtbARxukW",
+         "name":"Mind playing Fractal",
+         "artist":"beni-shouga",
+         "source":"Girls Band Cry",
+         "tags":"Anime, Soundtrack, Music, beni-shouga, Girls Band Cry, Drama, Slice of Life, Mind playing Fractal",
+         "sourceanswers":"Girls Band Cry",
+         "image":"https://static.wikia.nocookie.net/girls-band-cry/images/2/20/Mind_playing_fractal.jpg/revision/latest?cb=20240514191638"
+      },
+      "girlsbandcryemptinessandcatharsis":{
+         "url":"https://youtu.be/hwvAh7M3erc?si=q4ww1lBbPx38Kv2Z",
+         "name":"Emptiness and Catharsis",
+         "artist":"TOGENASHI TOGEARI",
+         "source":"Girls Band Cry",
+         "tags":"Anime, Soundtrack, Music, TOGENASHI TOGEARI, Girls Band Cry, Drama, Slice of Life, Emptiness and Catharsis",
+         "sourceanswers":"Girls Band Cry",
+         "image":"https://linkstorage.linkfire.com/medialinks/images/bb951722-5dbf-42cd-a86b-5ef7bf8114a0/artwork-440x440.jpg"
+      },
       "liesofpfeel":{
          "url":"https://youtu.be/FRdRx1OMpJQ?si=ALY4xZG9sIjyb-Gs",
          "name":"Feel",
@@ -6929,6 +6947,105 @@
          "tags":"Video Game, Sonic, Sega, Platformer, Dreamcast, Sega Dreamcast, Gamecube, Sonic Adventure, Jun Senoue, Kenichi Tokoi, Fumie Kumatani, Calm After the Storm",
          "sourceanswers":"Sonic Adventure, Sonic Adventure DX, Sonic Adventure DX Directors Cut",
          "image":"https://upload.wikimedia.org/wikipedia/en/6/60/Sonic_Adventure.PNG"
+      },
+      "windbreakerabsolutezero":{
+         "url":"https://youtu.be/LFoyXEFaz2Q?si=KazV1157_aANhrsg",
+         "name":"Absolute Zero",
+         "artist":"Natori",
+         "source":"Wind Breaker",
+         "tags":"Wind Breaker, Natori, Anime, Opening, Action, Shonen, Drama, Absolute Zero",
+         "sourceanswers":"Wind Breaker",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163270-oxwgbe43Cpog.jpg"
+      },
+      "cotecasteroom":{
+         "url":"https://youtu.be/IiyS-0QdQcE?si=5nINc0E1ph3h2JLB",
+         "name":"Caste Room",
+         "artist":"ZAQ",
+         "source":"Classroom of the Elite Season 1",
+         "tags":"Classroom of the Elite, Classroom of the Elite Season 1, ZAQ, Anime, Opening, Drama, Psychological, Caste Room",
+         "sourceanswers":"Classroom of the Elite, Classroom of the Elite Season 1",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg"
+      },
+      "cotebeautifulsoldier":{
+         "url":"https://youtu.be/nIWslzMR7MU?si=0nZ2l0kr-yJdbxOJ",
+         "name":"Beautiful Soldier",
+         "artist":"Minami Kuribayashi",
+         "source":"Classroom of the Elite Season 1",
+         "tags":"Classroom of the Elite, Classroom of the Elite Season 1, Minami Kuribayashi, Anime, Ending, Drama, Psychological, Beautiful Soldier",
+         "sourceanswers":"Classroom of the Elite, Classroom of the Elite Season 1",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98659-WNyPLIZDpGGY.jpg"
+      },
+      "cotedanceinthegame":{
+         "url":"https://youtu.be/uddBqgwGDHc?si=vYaP8auQt2NC1Win",
+         "name":"Dance In The Game",
+         "artist":"ZAQ",
+         "source":"Classroom of the Elite Season 2",
+         "tags":"Classroom of the Elite, Classroom of the Elite Season 2, ZAQ, Anime, Opening, Drama, Psychological, Dance In The Game",
+         "sourceanswers":"Classroom of the Elite, Classroom of the Elite Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png"
+      },
+      "cotehitojibai":{
+         "url":"https://youtu.be/fCpacv1cNZk?si=-ntD-8VQIpI5heGA",
+         "name":"Hito Shibai",
+         "artist":"Fuchigami Mai",
+         "source":"Classroom of the Elite Season 2",
+         "tags":"Classroom of the Elite, Classroom of the Elite Season 2, Fuchigami Mai, Anime, Ending, Drama, Psychological, Hito Shibai",
+         "sourceanswers":"Classroom of the Elite, Classroom of the Elite Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145545-DGl3LVvFlnHi.png"
+      },
+      "coteminorpiece":{
+         "url":"https://youtu.be/0AvP-lNzV8o?si=MCbKh4T16mgRQTZp",
+         "name":"Minor Piece",
+         "artist":"ZAQ",
+         "source":"Classroom of the Elite Season 3",
+         "tags":"Classroom of the Elite, Classroom of the Elite Season 3, ZAQ, Anime, Opening, Drama, Psychological, Minor Piece",
+         "sourceanswers":"Classroom of the Elite, Classroom of the Elite Season 3",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg"
+      },
+      "cotekonsedaikakumei":{
+         "url":"https://youtu.be/KJIWZEZJxC8?si=6rX6c7yeVXmHo7oe",
+         "name":"The Great Revolution of this World",
+         "artist":"Yui Ninomiya",
+         "source":"Classroom of the Elite Season 3",
+         "tags":"Classroom of the Elite, Classroom of the Elite Season 3, Yui Ninomiya, Anime, Ending, Drama, Psychological, The Great Revolution of this World",
+         "sourceanswers":"Classroom of the Elite, Classroom of the Elite Season 3",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146066-zzKl6P6OeEjy.jpg"
+      },
+      "sololevelinglevel":{
+         "url":"https://youtu.be/MUQIQLsfGDY?si=BWiN2m7qX-SI2lmG",
+         "name":"LEveL",
+         "artist":"Hiroyuki Sawano",
+         "source":"Solo Leveling",
+         "tags":"Solo Leveling, Hiroyuki Sawano, Anime, Opening, Action, Adventure, Fantasy, LEveL",
+         "sourceanswers":"Solo Leveling",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151807-yxY3olrjZH4k.png"
+      },
+      "eminenceinshadowhighest":{
+         "url":"https://youtu.be/T9MLjIsfUOU?si=gTqc8fjsC0BOZjGe",
+         "name":"HIGHEST",
+         "artist":"OxT",
+         "source":"The Eminence in Shadow Season 1",
+         "tags":"The Eminence in Shadow, Eminence in Shadow, The Eminence in Shadow Season 1, OxT, Anime, Opening, Action, Comedy, Fantasy, HIGHEST",
+         "sourceanswers":"The Eminence in Shadow, Eminence in Shadow, The Eminence in Shadow Season 1, Eminence in Shadow Season 1",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130298-O7nR1Wrav2dH.jpg"
+      },
+      "eminenceinshadowgrayscaledominator":{
+         "url":"https://youtu.be/Or2djDhg1jk?si=TjhMAIncavvdCm6K",
+         "name":"grayscale dominator",
+         "artist":"OxT",
+         "source":"The Eminence in Shadow Season 2",
+         "tags":"The Eminence in Shadow, Eminence in Shadow, The Eminence in Shadow Season 2, OxT, Anime, Opening, Action, Comedy, Fantasy, grayscale dominator",
+         "sourceanswers":"The Eminence in Shadow, Eminence in Shadow, The Eminence in Shadow Season 2, Eminence in Shadow Season 2",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161964-JpkEbHI8ivaP.jpg"
+      },
+      "violetevergardensincerely":{
+         "url":"https://youtu.be/uwph0dv9E6U?si=-IUVublUAY1bYDGy",
+         "name":"Sincerely",
+         "artist":"TRUE",
+         "source":"Violet Evergarden",
+         "tags":"Violet Evergarden, TRUE, Anime, Opening, Drama, Slice of Life, Fantasy, Sincerely",
+         "sourceanswers":"Violet Evergarden",
+         "image":"https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21827-10F6m50H4GJK.png"
       }
    }
 }
